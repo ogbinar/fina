@@ -1,0 +1,3446 @@
+Emergency Funds
+What is it?
+
+Simply put, it's money stowed away for emergency use.
+
+What kind of emergencies?
+
+Emergencies are the ones you are not expecting to happen but need immediate attention. This does not include Flash Lazada Sales, Piso Fares, and expenses that you should have been saving for in the first place before it is due (e.g. kid's tuition, Meralco, wedding).
+
+Why do I need it?
+
+Any good financial book or advisor would always tell you that when you start investing the very first thing* you need to do is to build up your emergency fund. This is because having a buffer for unexpected events in your life frees you from debt, worry and ensures that you could follow your financial plans to a T.
+
+I'm ready, how much should I save? Is there a magic number?
+
+The amount you need to put away is a case to case basis. Some save from 3 months' worth of salary, others could do 6 or even for a whole year. The premise is that if you find yourself jobless for x months you don't need to depend on anybody's charity to get by. Just be realistic on your planned amount and time frame and you're good to go.
+
+Don't forget to replenish each time you use it too. Always make it a point that your fund is intact as soon as you can.
+
+I now have the money, where should I put it?
+
+The safest place you could put it is in the bank. It's free and unlike your closet earns a bit of interest. Just put an effort in not withdrawing anything from it and that would be fine.
+
+You can also put it in a low risk 30 Day recurring Time Deposit. Not only does it have better interest rates, it prevents you to withdraw because it is locked for 30 days. You can get it anytime though (this is for emergency after all) but you need to personally meet a bank rep just to transact unlike with an ATM that you only need to dip it on a machine.
+
+But it's a huge amount, shouldn't I invest it instead?
+
+This is a big NO. Emergency funds need to retain their principal amount to be of any value. There is no point in putting it on high risk investments. This is like gambling with your child's college fund hoping that it would double before you need it.
+
+*Technically you need to pay off debts first, especially short ones and with high interest.
+
+-- by u/hermitina
+
+Alternative places where to place your emergency fund
+
+Savings accounts that give you free insurance (BPI Save-up/ BPI Pamana/ Security Bank All Access/ BDO Kabayan/ RCBC Hexagon Club Privilege)
+Money market funds (Look at asset type = money market in this list)
+High-interest savings accounts (ING/ CIMB)
+Combination of 1, 2, 3
+Please consider the convenience and time needed to withdraw from your emergency fund when actual emergencies happen. So you may structure your emergency fund depending on how long it takes to withdraw them. An example would be:
+
+2 days worth of expenses to be kept at home
+2 weeks worth of expenses to be kept in an ATM savings account
+3 to 5.5 months worth of expenses to be kept in a money market fund
+This is just an example. You need to plan for it basing on your personal situation.
+
+-- by u/speqter (Oct 8, 2019)
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+Before investing, know yourself first (goals, investment horizon, risk appetite)!
+Go back to FAQ main page
+
+Before investing, know yourself first (goals, investment horizon, risk appetite)!
+Determine your short-term and long-term goals. Financial independence is a lofty goal but not impossible.
+
+Determine your investment horizon. 1 year, 5 years, 20 years, 40 years?
+
+Determine your risk appetite. How much percent loss woud you be able to stomach? 1%, 5%, 20%, 50%?
+
+Build your emergency fund worth 3 to 6 months of your expenses. This is important because you don't want to be forced to sell your investments at a loss because you need to raise money for an emergency. The emergency fund should be used only for emergencies.
+
+Invest in yourself. Keep on learning. Keep on finding ways to increase your cash flow. It's easier to invest if you have money to invest.
+
+Check this flowchart if you need insurance.
+
+Basing on #1, #2, and #3, pick a suitable investment. Some options are money market funds, bond funds, equity funds. You may refer to u/treeperfume's spreadsheet on the sidebar for the historical performance of different funds. High returns would also have high risk. If your investment horizon is long term (> 10 years) and if you can stomach a 30% loss, I would advise to invest in an equity index fund. The best index fund would be FMETF since it has the lowest management fees among equity index funds (0.5%). Other investment options can be found here, and here (passive) and here (mp2).
+
+If you decide to do index investing, consider using the peso cost averaging method.
+
+If your goal is financial independence, you can calculate your target net worth simply by dividing your target annual expenses by the SWR (safe withdrawal rate). The rule of thumb is 4%. At 80k monthly expenses or 960k per year, you need a net worth of 24M. At 2.8% SWR, you need 34M. A bit high for many, but certainly not impossible. You may also use this FIRE calculator that considers inflation and increasing and non-recurring expenses.
+
+TL/DR: Know yourself. Get an emergency fund. Continue to improve your cashflow. Keep on learning. Beware of VULs. Pick suitable investments basing on your goals, investment horizon and risk appetite. If equity index funds suits you, buy FMETF monthly and hold for the long term. Strive to achieve financial independence. Retire early if that's what you prefer.
+
+-- by u/speqter (Oct 11, 2019)
+
+Last revised by regnregnregn - 3 years ago
+
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+Modified Pag-IBIG 2 (MP2)
+Jump to ADVANTAGES | See HISTORICAL RATES
+Basic Info
+Pre-requisite
+Lock-in period
+Registration
+Payment
+Dividends
+Pay-out
+Multiple Accounts
+Monitoring
+PROS
+CON
+Historical MP2 Rate
+DIVIDEND COMPUTATIONS
+1. Excel file for Monthly, Annual & Lump Sum Scenarios
+2. Another take on deposits and dividends formula
+3. Dividend Computation Examples
+Go back to FAQ main page
+
+Modified Pag-IBIG 2 (MP2)
+A savings program launched by the government in 2010 as an additional alternative for Pinoys to grow their money. The fund is used in various government programs, majority of it to finance housing loans.
+
+Jump to ADVANTAGES | See HISTORICAL RATES
+​
+
+Basic Info
+​
+
+Pre-requisite
+an active Pag-IBIG member or retiree/former member with atleast 24 mos of P1 savings.
+for voluntary members like students with part-time job, see this comment.
+Lock-in period
+5 years - which will start by the time you make your first deposit, not when you generated the MP2 number from their website.
+Registration
+Upon application you can choose to receive annual dividends OR have your investment compounded which will generate more gain.
+Online enrollment only takes a minute or two (prepare your MID#) and disregard the "pass this to the branch" stated in the form. You only pass that if the employer agree to a salary deduction monthly set-up. Which on most cases, they don't since mp2 is a personal transaction unlike P1 which is mandatory. What you need on that form is only the MP2# for your deposits.
+Payment
+Pay anytime - may it be twice a month, quarterly, one-time lump deposit, etc.
+Minimum deposit amount per transaction is P500. For deposits of P500,000 and above, a personal/managers check is needed to remit the amount.
+Deposits can be done remotely through GCash with P5 fee OR via any other bills payment facility. It is advisable to remit your MP2 contributions personally, as your HR can confuse it as your P1 voluntary contribution.
+Dividends
+MP2 dividend rate is always higher than P1 rate by 0.50%.
+Dividend rate is announced end of 1st quarter of the following year, usually around March.
+The dividend computation for the 5th and final year will use the latest available div rate.
+Pay-out
+Annual dividends can be paid out through the Loyalty Card Plus
+Upon maturity, proceeds can be deposited via DBP, Landbank account or the Loyalty Card Plus (if you have any). If none, a cheque will be issued. Having a card will therefore save you another branch visit after confirmation text is received that your withdrawal money is ready.
+Multiple Accounts
+Multiple MP2 account opening is allowed, depending on your current/future goal, a strategy plan can be utilized for this to work in your favor (shoutout to Angkol for the 3 hacks/strat below)
+Annual dividend harvesting for retirement phase purposes
+Roll-over to new MP2 accounts after every 5-year maturity for wealth accumulation, taking advantage of the compounding set-up
+Ladderized account opening to pay for anticipated big expenses like college tuition year on year, also on compounding set-up
+​
+
+Monitoring
+Deposit history can be viewed:
+
+1) via online by creating a Virtual Pag-IBIG account
+
+a) using the Loyalty Card Plus
+
+b) by visiting a Pag-IBIG branch
+
+c) by setting-up a video call for OFWs
+
+2) OR via email by requesting the MP2 ESAV (Employee's Statement of Accumulated Value)
+
+​
+
+PROS
+Principal is guaranteed by the government
+Interest earned is tax-free
+No maximum investment limit
+No management fees
+​
+
+CON
+Redemption - once your MP2 fund matures 5 years later, you may apply online for claim OR personally visit any Pag-IBIG office to file a claim for withdrawing your capital and/or dividends. Processing time can take upto 20 days.
+
+No need to login for online application. Just go to Virtual Pag-IBIG > Claim Pag-IBIG Savings > MP2 Savings Maturity ("Check Status Of Claims" is also available after successful application)
+
+For Pag-IBIG branch withdrawal, the form can be downloaded online and filled up prior to visiting the office.
+
+I was able to withdraw mine after 7 business days via online application. Actual process time is only 1 day, most of the waiting is for Pag-IBIG to hand-over the application to the right branch. I knew this because that's when the online status got updates and someone from local branch contacts me clarifying an issue with my ID selfie (morning time), then my MP2 proceed was deposited to my LCP account by night time. This is as of Q3 of 2023, the turn-around time will improve as time passes. Note that from my experience, I did not receive any confirmation text that my fund is already available nor did the status on the online claim indicated as 'complete'. Check your online banking for real-time update. As for your MP2 details at Virtual Pag-IBIG, everything will be retained except that the accumulated value will zero-out after withdrawal.
+​
+
+Historical MP2 Rate
+Year	Div Rate	Year	Div Rate	Year	Div Rate
+2025		2020	6.12%	2015	5.34%
+2024		2019	7.23%	2014	4.69%
+2023	-	2018	7.41%	2013	4.58%
+2022	7.03%	2017	8.11%	2012	4.67%
+2021	6.00%	2016	7.43%	2011	4.63%
+​
+
+DIVIDEND COMPUTATIONS
+​
+
+Dividend Formula = [dividend rate] X [average monthly balance]
+​
+
+1. Excel file for Monthly, Annual & Lump Sum Scenarios
+2. Another take on deposits and dividends formula
+​
+
+3. Dividend Computation Examples
+SAMPLE 1: (image version):
+
+Contribution: Php 10,000 from July to December 2017
+Total Contribution in 2017: Php 60,000
+Dividend Rate in 2017: 8.11%
+Dividend: ~Php 1,400
+YEAREND BALANCE CONCEPT for computing annual dividends:
+
+Balance Each Month
+
+July = Php 10,000
+August = Php 20,000
+September = Php 30,000
+October = Php 40,000
+November = Php 50,000
+December = Php 60,000
+​
+
+Dividend = (dividend rate) X [ (summation of monthly totals) / 12 ]
+
+DIV = 0.0811 dividend rate X [ (Php 10,000 + Php 20,000 + Php 30,000 + Php 40,000 + Php 50,000 + Php 60,000) / 12 months ]
+
+    = 0.0811 X [ Php 210,000 / 12 ]
+
+    = 0.0811 X Php 17,500 
+
+    = PHP 1,419.25
+​
+
+SAMPLE 2:
+
+Another sample scenario for uneven deposits:
+
+Contribution: June-Oct = 5K/month, Nov-Dec = 30K/month
+
+Total Contribution Each Month
+
+June = Php 5,000
+July = Php 5,000
+August = Php 5,000
+September = Php 5,000
+October = Php 5,000
+November = Php 35,000
+December = Php 35,000
+​
+
+Dividend = (dividend rate) x [ (sum of monthly totals) / 12 months ]
+
+DIV = (7.23%)* x [ Php 95,000 / 12 ]
+
+DIV = PHP 572.375
+     *2019 rate
+​
+
+Above computations is only for a single year dividend
+
+SAMPLE 3:
+
+Uniform deposits on the complete span of 5 years @ 3K monthly contribution on 8% interest, will give you a little higher than 40K. You may use this compound calculator.
+
+By typing these inputs, you should get something like this
+
+​
+
+-- by u/ninja4lyf (July 31, 2019)
+
+.
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+Passive Income/Fixed Income Guide
+Go back to FAQ main page
+
+Passive Income/Fixed Income Guide
+Passive income is generated by investing in instruments which provide a fixed interest rate and schedule. Usually with these instruments, minimal to almost no action is needed from the investor to realise these gains once the investment is done. Some more passive income investment would include (I'll try to add more details regarding each):
+
+bonds (both corporate and sovereign)
+
+LTNCDs
+
+time deposits
+
+preferred stocks
+
+mutual funds (there are some which distribute dividends)
+
+These instruments generally would have a lower rate of return than other instruments. This is offset by gains being predictable. I would recommend the following though:
+
+invest in multiple instruments. basically diversify your portfolio
+
+invest in multiple companies. some companies like SMC have both bonds and preferred stocks. No matter how stable the company may be, you should protect yourself from the company going under.
+
+stagger your maturity dates. most of these instruments has a set maturity. the investment would end and the company generally give you your money back. its tricky to look for a new investment option to reserve your dividend stream once one matures.
+
+On top of these investment vehicles, you may also look at following:
+
+loans, a bit tricky since income depends on the loanee paying you off. There are online platforms with this in mind, but there are risks involved.
+
+business. You have to be hands on at the start, but once the business is running smoothly and you have a system in place, you can hire people to run it and just monitor the business. This of course also depends on the business/industry its in.
+
+rental property. Ideally to be run as a business. Even once the property is setup you need to market to find renters, negotiate with them and manage any problems that arises. Maintenance of the property is also required during and in between leases.
+
+-- by u/tagongpangalan (January 26, 2019)
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+What are Stocks?
+ELI5 for stocks
+Additional Info Regarding Stocks
+General recommendation
+Go back to FAQ main page
+
+Go back to Passive Income Options
+
+What are Stocks?
+Stocks or shares are representation of ownership of a company. When a new corporation is created, investors pool their money to setup the corporation's starting capital. Based on the agreement of the incorporators, they are given shares/stocks based on the amount of money they put in. For example, an investor who puts in 50% of the starting capital would be given 50% of the shares/stock and thus own 50% of the company. His shares may be traded and sold to other people as he deems.
+-- by u/tagongpangalan
+
+ELI5 for stocks
+Buying shares (stocks) of a company will make you a part owner of that company. This PSE primer (pdf) contains a step-by-step guide on how to buy stocks.
+Yeah, you can buy shares of just one company, but it's better to buy in different sectors (property, mining/oil, industrial, financials, etc) to diversify.
+
+The PSEi is a group of 30 companies in the Philippine Stock Exchange carefully selected to represent the market. It includes SM, SMPH, Ayala Corp, Ayala Land, BPI, BDO among others.
+
+Instead of buying shares of each of those 30 companies, you can just buy an equity index fund, which is a mirror image of the PSEi. There are many equity index funds out there and they differ in management fees, minimum investment cost, etc, but they all aim to do one thing --- to imitate the performance of the PSEi. This thread compares the different equity index funds. FMETF is the best because it has the lowest management fees.
+
+Stocks have corresponding fees: 0.295% for Buy, and 0.895% for Sell transactions (assuming your investment is 8k or higher). See the breakdown here.
+
+As you go lower than 8k, the fee % increases.
+
+Buy Transactions
+
+Transaction	Investment (pesos)	Fees (pesos)	Fee %
+Buy	10,000	29.50	0.295%
+Buy	9,000	26.55	0.295%
+Buy	8,000	23.60	0.295%
+Buy	7,000	23.45	0.335%
+Buy	6,000	23.30	0.388%
+Buy	5,000	23.15	0.463%
+Buy	4,000	23.00	0.575%
+Buy	3,000	22.85	0.762%
+Buy	2,000	22.70	1.135%
+Buy	1,000	22.55	2.255%
+Sell Transactions
+
+Transaction	Investment (pesos)	Fees (pesos)	Fee %
+Sell	10,000	89.50	0.895%
+Sell	9,000	80.55	0.895%
+Sell	8,000	71.60	0.895%
+Sell	7,000	65.45	0.935%
+Sell	6,000	59.30	0.988%
+Sell	5,000	53.15	1.063%
+Sell	4,000	47.00	1.175%
+Sell	3,000	40.85	1.362%
+Sell	2,000	34.70	1.735%
+Sell	1,000	28.55	2.855%
+So please always buy or sell at least 8k worth of stocks.
+
+-- by u/speqter (October 20, 2019)
+
+Additional Info Regarding Stocks
+Security Exchange Commission (SEC)
+
+* is a government agency
+
+* supervises the stock market and all relevant associations such as stock brokers
+Philippine Stock Exchange (PSE)
+
+* is an independent entity, hindi ito parte ng gobyerno. 
+
+* nagbibigay daan upang makakuha ng dagdag na pondo ang mga kumpanya tulad ng Ayala, Jollibee, Cebu Pacific Airlines, SM Supermalls, etc..
+Stock Brokers
+
+* independent entities, hindi rin parte ng gobyerno
+
+* sila ang daan ng publiko sa madaliang pagbili o benta ng "company shares" na mahahanap sa PSE
+Basic Requirement to invest
+
+Any individual of legal age, open for students
+Tax Identification Number (TIN)
+One valid government ID (Passport, Driver's License, SSI ID, GSIS eCard, PRC ID, Comelec Voter's ID)
+Bank account to receive withdrawals
+Taxes on stocks (link: https://www.rappler.com/business/ask-the-tax-whiz-how-are-investments-taxed
+
+NO additional tax to pay
+NO need to declare on Income Tax Return
+TAX INCLUSIVE sa tuwing ibebenta ang shares, broker na ang bahala mag-remit ng iyong taxes, regardless kung may capital gain or loss sa transaction.
+General recommendation
+Before investing, please understand that prices in the stock market changes overtime, capital gains are not guaranteed. Always check on the company you are willing to "invest", and learn more about "dividends".
+
+COL Financial Inc. (link: https://www.colfinancial.com/ape/Final2/home/faqs_main.asp#deposit) broker offers minimum 1,000 pesos capital to get you started. You can also deposit through GCash.
+
+If you have an existing bank account with BPI, Metrobank, BDO or other banks, it may be convenient to open an account directly through their brokerage:
+BPI - https://www.bpitrade.com
+BDO - https://www.bdo.com.ph/securities/home
+Maybank - https://maybanktrade.psetradex.ph
+Metrobank - https://www.firstmetrosec.ph
+RCBC - https://www.rcbcsec.com
+UCPB - https://www.ucpbsec.com
+-- by u/ttjjdd (November 30, 2020)
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+Investing in the PSEi through FMETF
+Go back to FAQ main page
+
+Investing in the PSEi through FMETF
+FMETF tracks the PSE index. Here's the PSEi graph since year 2000. I described it a little bit in this ELI5 here.
+
+When is the right time to buy?
+
+I prefer not to time the market, so I buy it every month. This is called peso cost averaging.
+My previous strategy was to buy whenever the P/E ratio is less than 21, and then sell when the P/E ratio is >22.
+Check this PSEi vs PER graph.
+But then I realized that if you sell everything at P/E = 22, it would take a long time of buying at P/E < 21 to get back to the same level of exposure.
+So I just buy every month. No hassle. No worries.
+How long should you hold it?
+
+I looked at the PSEi data since year 2000, because this is the oldest data that I could get my hands on.
+Then I looked at each 3-year period (Jan-1-2000 to Jan-1-2003, Jan-2-2000 to Jan-2-2003, ... until Jan-24-2016 to Jan-24-2019). And I calculated the compound annual growth rate (CAGR) for each of these periods.
+3-year periods have an average CAGR of 12.1%, and a median CAGR of 11.9%, but also saw a period with -22.3% CAGR from Jan-3-2000 to Jan-3-2003.
+Then I did the same for 5-year, 7-year, 10-year, and 15-year periods.
+Here's the summary:
+
+3-yr CAGR	5-yr CAGR	7-yr CAGR	10-yr CAGR	15-yr CAGR
+min	-22.3%	-3.0%	3.0%	3.2%	8.4%
+max	41.8%	30.8%	22.2%	21.5%	15.5%
+average	12.1%	13.1%	13.3%	13.0%	12.1%
+median	11.9%	11.6%	13.6%	13.2%	11.9%
+A 3-year investment horizon is too short, as shown by the -22.3% CAGR.
+A 5-year investment horizon is still too short. There was a negative CAGR of -3% from Jan 2000 to Jan 2005.
+If you increase your horizon to 7 years, you'd probably avoid that negative growth.
+So 7 years should be the minimum investment horizon for the PSEi. I personally plan to hold it until it's time to pass to my son as inheritance.
+TL/DR: Buy FMETF now, and buy it regularly. And hold for at least 7 years.
+
+-- by u/speqter (January 28, 2019)
+
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+Aiming for F.I.R.E?
+Starting Points
+Savings Rate Impact
+Useful Tools
+Friendly Reminder
+TLDR
+Go back to FAQ main page
+
+Aiming for F.I.R.E?
+Financial Independence / Retire Early is possible in the Philippines (as any other country). Here is the link of my post/discussion last June 2019 as I share the important things to consider (F.I.R.E. Starting Points). It is also summarized below, excluding details of my personal leanFIRE journey.
+
+F.I.R.E. in it's simplicity is just embracing a debt-free, frugal lifestyle by having 25X worth of annual expenses and living with the capital earnings for life, without the stress of having to work just to pay the bills. There is more to that summary but I'll opt to add links within the post (because there are more qualified people to explain it to you than me). There are also a lot of debates on this topic but I am following this path with my own reasons. I suggest you do due diligence and figure out if this will also work for you. Watch this youtube video before you proceed.
+
+Starting Points
+Know the basic of personal finance. Before you follow F.I.R.E., you should atleast be aware of the big ideas of personal finance / financial independence. Make sure you know your expenses, have eliminated most of your debts if there is any, and is willing to reduce your expenses to increase your savings. See the sub's wiki guide for young professionals.
+
+Income doesn't matter, savings rate does. Instead of monthly net/gross comparison, ask how much is the savings rate? Don't be discourage because someone posted saving 20k/mo. If that particular person is earning 100k/mo, then he/she will be ready to retire after 37yrs @20% saving rate. On the other hand say someone is saving 15K/mo on 25K/mo earning, saving rate is 60% and retirement is only after 12.5 years. For more info about the assumptions used, see shockingly simple math behind early retirement by MMM. ​
+
+Set milestone according to your annual net. The popular trend is saving 1M, I'm not saying this is wrong - just not for everyone. For the following example I am only considering savings here without investment to simplify the comparison. (A) If your earning 20k/mo with 50% saving rate, this will be an 8yrs+ journey. (B) While for someone earning 50k/mo with also a 50% saving rate, it will only take 3yrs+. Don't you agree 1M will be overwhelming for (A)? Sometimes maybe even discouraging. Why not choose your own milestone? I suggest for (A) 250k and for (B) 650K, these are their annual income respectively (roughly estimated with 13th mo. bonus, excluding other allowances and incentives). Gauge your milestone with your own income capacity. ​
+
+Savings will not bring you FI, investment will do. This one is a no brainer but I wanted to include since I am seeing a lot of savings only post. After inflation, your money will decrease its value over time if you just leave it on your savings account. Investment will save your funds buying power and even offer higher rate if you just choose the right option for your need. Play with this fire calculator to crunch your own numbers OR see the sub's FI/RE tools on the section further down.
+
+Post/Comment Takeaways:
+
+Savings rate will only help if all those are invested on your retirement fund.
+One can FIRE faster by increasing income through side hustles.
+Avoid lifestyle creep - while your income may increase in the future, maintain your current level of expenses.
+The Trinity Study (also known as the 4% rule) conducted decades ago suggest that if you only withdraw that percentage per annum from your nest egg, you will never run out of money no matter how long you'll live for retirement. Some argue for 3% as the new safe withdrawal or equivalent to having 33X your annual expenses instead. But minimalist/frugalist still believes with 4%.
+*There are fatFIRE, FIRE and leanFIRE branches visit the original post for further reading links.
+
+-- by u/ninja4lyf (July 16, 2019)
+
+Savings Rate Impact
+In below post, my argument is simple.
+
+Savings rate is more important than asset allocation and investment return .
+
+Check my post for the explanation (Dec2019 Update)
+
+​
+
+SR (%) = [ (net income* - expenses) / net income* ] x 100
+
+SR (%) = (investment / net income* ) x 100
+
+*after tax
+Useful Tools
+FIRE Calculator for planning your own numbers.
+
+Investment Cheatsheet for your portfolio allocation, considering individual's own risk appetite and approximate return rate of known vehicles.
+
+Friendly Reminder
+Don't misunderstood the idea. FI/RE isn't about "not working" BUT the flexibility to do anything beside the typical path of paid employment (working until 60 y/o). If you love your job, good for you. But many people are just working for money. FI/RE is living the life you want during your prime years. It's about time, not money.
+
+TLDR
+The FI/RE concept means saving a minimum of 25X your annual expenses and fast! Faster than most because of savings rate as high as 80%. With this approach, FI/RE aspirants do really retire early. Like really early.. some in their early 30s while majority of the FIRErs achieve their target NW in their 40s. In FI/RE, one will accumulate wealth for himself/herself. Let's not confuse using the term by saying, someone FIREd by depending on children's subsidy or parent's wealth. Drop the RE part whenever we speak of retirement in that context better to use just FI.
+
+-- by u/ninja4lyf (April 17, 2021)
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+Beware of VULs!
+VUL vs BTID vs Self-insurance
+Go back to FAQ main page
+
+Beware of VULs!
+VULs (variable unit life insurance) combine insurance and investment together. Here are previous threads with VUL agents (thread 1, thread 2, thread 3).
+
+Yes, insurance is good. Yes, investments are good. But combining them would be bad basing on the VULs that I have encountered. You might not even need the insurance component of the VUL because (a.) your workplace already gives you sufficient insurance, and/or (b.) your savings account already comes with free insurance (ex: BPI Save-up or Security Bank All Access), and/or (c.) your net worth is already high enough for you to be able to self-insure. Use this guide to assess if you need insurance in the first place.
+For the investment part of the VUL, you are forced to pay them high management fees (> 2%). This is much higher compared with the management fee of FMETF (only 0.5%). And this is one of the reasons why VUL agents get high commission fees (up to 45% of the first year of payment). Read the fine print.
+If you really need insurance, get a term insurance (with no investment component). VUL agents might try to tell you that VULs have lower premiums, but that's because part of the insurance charge is coming from the investment component, which is still your money. You're still the one paying for it. Again, read the fine print before you sign anything.
+VUL vs BTID vs Self-insurance
+For a discussion on VUL vs BTID vs self-insurance, visit this thread.
+For a compilation of threads about VUL experiences and discussions, please see /u/xtiankahoy's comment: https://www.reddit.com/r/phinvest/comments/sygcuz/share_experiences_after_finally_paying_your_51015/hxxol01/
+
+-- by /u/speqter (January 25, 2019)
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+A Student interested in Finance and Investing
+Other guides for (work in progress):
+This is for you if:
+Invest in your future career
+Education
+Major
+School
+Extracurricular
+Lifestyle
+Finance and Investment
+Closing
+Go back to r/phinvest's FAQ main page
+
+Go back to r/phmoneysaving's INDEX page
+
+A Student interested in Finance and Investing
+Other guides for (work in progress):
+Young Professional
+Family Man (content to follow)
+OFW (content to follow)
+Approaching Retirement (content to follow)
+This is for you if:
+You're currently studying in SHS or college. You still receive an allowance from your parents or a sponsor. You're interested in handling your finances as best as you could.
+
+For working students some concepts here might apply to you, but you might want to look at the young professional guide, as additional reading material.
+
+This guide borders into life advice but please approach it in the context of financial advice.
+
+Invest in your future career
+The best way for you to invest right now is to invest in your future career, and that means investing in your education. I know this sounds cliche as hell but as a student it's the most impactful thing you can do for your future.
+
+Whether you want to have a corporate job, to work in the government, or even to be an entrepreneur, your education is a big factor in getting where you want to be.
+
+You can head on over to r/phcareers for an idea on what to expect. They regularly talk about different industries and general career topics there.
+
+Education
+Major
+You need to have a good idea of what you want to do or at least a feeling of what field you'd want to be in. Don't be too focused on the pay (i.e. Don't go into IT just because it pays well), but don't disregard it entirely either. There needs to be some practicality in this decision between the possible payoff and how much you enjoy what you're doing. Keep in mind that your career will last decades and you need to be comfortable possibly doing that your whole life.
+
+School
+When you decide on a school, try to base it on the course you want to take. Some schools have specialties that they're known for, while some courses you'd be fine with any school. CHED publishes its list of centers of excellence (COE) for specific disciplines.
+
+Take into consideration the price of the school. If the price is out of reach, look into scholarships both from the school or offered by third parties. Your school of choice can point you to the right direction.
+
+Extracurricular
+Aside from academics, college is the best time to join organizations and to participate in events. More than a resume filler, these provide you with good training in organizing events, collaborating, and socializing.
+
+Most courses have organizations for them. Consider joining these as a way to expand your professional network, they can give you access to the industry and provide possible employment opportunities.
+
+There are also a lot of organizations focused on specific interests or advocacies. Try them out and have some fun.
+
+Lifestyle
+College is a time when you start to develop and enforce financial habits, both the good and the bad. The idea is that you take charge and steer into developing good financial habits.
+
+Start with budgeting and tracking your expenses, there's more info on this on the next guide. Getting this habit early can save you years of regret trying to piece together where your money went.
+
+Avoid keeping up with the joneses. Don't buy stuff you can't afford because of peer pressure. If you fall into this, it's going to be a slippery slope even into your adulthood.
+
+Finance and Investment
+The closest thing to finance and investment you should be worried about right now is having your own bank account. Assuming you're 18 it's time to open your own account separate from your parents.
+
+When looking into your first bank consider the required initial deposit, minimum average daily balance requirement, and annual fees, if any. Ideally these should be as low as possible, some banks offer 0 maintaining but oftentimes this comes at the expense of annual fees. If you can afford to maintain the minimum balance, these accounts usually don't have annual fees but penalize you if you go below maintaining. Some banks offer minimum balance of 3,000 to 5,000 which should be maintainable for students.
+
+For most traditional banks, interest rate is low enough to be negligible. You can also look into digital banks (CIMB & ING) which offer higher interest rates. I suggest maintaining some spending money with a traditional bank though. Once you have extra funds you can start to consider earning from interest.
+
+This is your practice in saving money. If you're able to save enough, try building an emergency fund (I'll discuss this more in the next guide). Although you're likely to still be taken care of by your parents, building this early on can save you headaches in the future. Right now, you can also consider this as an opportunity fund. Imagine the following scenarios:
+
+You're invited to an out of town seminar but you'll need to shell out money, opportunity fund
+You're interested in graphic arts as a hobby/side gig and you need a tablet, opportunity fund
+Having money available can save you so much headache, as well as provide opportunities you otherwise wouldn't have been able to afford.
+
+For more discussion on saving money and the frugal mindset, you can go to r/phmoneysaving.
+
+Closing
+You may have noticed that I barely talked about investing in this guide. In my point of view ensuring the best possible start to your career and developing the right mindset with money is the best investment a student can do, and this is something that can't be done by investing in a financial instrument.
+
+If your circumstances have provided you with a substantial amount that you can invest or maybe you have a job/gig that pays well, you can go ahead on to the next guide to look at the next steps in your financial journey.
+
+If you're reading this and you have comments or suggestions, don't hesitate to pm me u/DiscourseRelated
+
+Last revised by DiscourseRelated - 3 years ago
+
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+A young professional starting to invest
+Other guides for (work in progress):
+This is for you if:
+Where to begin:
+Track your expenses
+Manage Expenses
+Emergency Fund
+Invest
+??? Phase
+Setting a Retirement Goal
+Go back to r/phinvest's FAQ main page
+
+Go back to r/phmoneysaving's INDEX page
+
+A young professional starting to invest
+Other guides for (work in progress):
+Student
+Family Man (content to follow)
+OFW (content to follow)
+Approaching Retirement (content to follow)
+This is for you if:
+You're finished with SHS/vocational/undergrad course. You're in the first 5 years of your professional career. You might still be living with your parents or starting to live independently. You don't have your own family yet, which means no child to support. But, you might be contributing to your parents or your siblings.
+
+Where to begin:
+After all those years of education, you're finally earning, congratulations! Pat your self on the back. Now that you have money you need to know how to handle it.
+
+Track your expenses
+This sounds simple but I find that people don't actually do this. To be financially responsible you need to start by knowing where your money goes. Track your spend. You can use an app or manually do it on a spreadsheet (I prefer apps because of accessibility, some apps allow exporting as a spreadsheet for in-depth analysis). I personally use expense manager on android.
+
+Here's a list of app recommendations from the community:
+
+iOS
+iFinance
+Android
+Bluecoins
+Expense Manager
+iOS & Android
+Money Manager | Guide Post / Features Tip
+Spendee
+Dollarbird
+Fudget
+Money Lover
+The first 3 months you do this I suggest you track everything to the peso. You might not realize how these things build up.
+
+Manage Expenses
+After a few months of tracking your expenses you should already have a view of where your money goes. You need to identify the major categories you're spending on (food, entertainment, rent, transportation, phone bill, etc). Most apps already have prebuilt categories and ask you to tag your expenses.
+
+Ask yourself if you're happy with how much you're spending on each category. This is when you start to realize you're spending more than you wanted on food, for example, because of your usual starbucks or milk tea order. Start looking for alternatives for these things. For example:
+
+Coffee: start brewing your own, look up coldbrew or get a french press. The price of a cup in starbucks can get you a weeks worth of beans for your own coffee.
+Lunch Outs: consider bringing packed lunch instead, this significantly lowers your expenses if you can meal prep for the whole week.
+Maybe you see that you're spending too much on your hobbies. Ask yourself if it's worth it, there are hobbies you can consider that don't require too much spend and there are even hobbies you can monetize and turn to a side gig as well. If you truly enjoy the hobby, you can try to allocate a fixed amount of your income to it and spend no more than that. I often see people allocate 10% for this.
+
+You'll also have expenses that will be difficult to change immediately (rent, phone plan, etc). These things will take time to control, but knowing them now will help you plan better in the future. For your rent assess if what you're getting is just right for you. If you feel that it's high try looking at other places once its time to renew, consider down sizing or a roommate if you can. For your phone plan you might be paying more than what you need, reassess your usage and if a lower tier plan can meet them.
+
+Hopefully after assessing your spending and making changes, you can lower your expenses and start increasing your savings. Even after this continue to monitor and track your expenses to make sure that they're still under control.
+
+Emergency Fund
+Now that you're saving money you can start building your emergency fund. So what is an emergency fund? This will be the money you'll use on emergencies, hence emergency fund. So what kind of emergencies?
+
+You got fired and need to pay for your rent & bills while looking for a job, emergency fund.
+You or a family member gets hospitalized and you need money, emergency fund.
+Your paycheck is late, emergency fund.
+A pandemic hits and you can't work or your business is closed, emergency fund.
+A normal suggestion is to have an emergency fund worth at least 3 times your monthly expenses. Read expenses, which means that you can live with that fund for at least 3 months! But with the current situation some people started to suggest 6 months to a year. In numbers, if you're spending PHP25,000 per month, you need PHP75,000 for a 3 month emergency fund.
+
+Your emergency fund needs to be liquid, which means it needs to be easily accessible in a day's notice. A savings account or a time deposit is sufficient for this.
+
+This doesn't mean you need to settle on the low interest traditional banks have though, you can place them on high interest accounts like ING & CIMB. If you do that, make sure you still have some cash on a traditional bank though, transferring out of CIMB & ING isn't instant and it might be difficult to get the funds for regular spending.
+
+Now some of you might think to invest this emergency fund, please resist the urge. When an emergency like a market crash happens your fund will lose value and might not be enough to provide for your needs. Don't invest your emergency fund.
+
+Other people are lucky enough to have financial fallbacks in the form of financially capable parents. Although you can rely on them to provide your needs, part of growing financially is being able to take care of yourself. So again, build that emergency fund.
+
+Here's the wiki resource for more information
+
+Invest
+You've tracked and managed your expenses, you've built your emergency fund, and now you have extra money. It's now time to invest. This will be your ticket to actually growing your money. All the steps before was just hygiene.
+
+In order to invest you need to evaluate your GOALS & TIMELINE, and your RISK APPETITE. Why is this important? This makes sure your investments is in line with what you want and that you're okay with your investment when things go wrong.
+
+Once you identify these, you can start to look at the investments that can make them happen. Here's a few examples:
+
+Build a house in 5 years: You'll want an investment where your principal is protected but allows you to still grow your money.
+
+Government bonds are relatively low risk investments. These are usually offered by the government through banks, you'll need to consult your bank for when they are available. Virtually no risk of government not paying. Look into Bonds.ph or BTR website
+Corporate bonds are riskier than government bonds but offer better interest to compensate. Carries risk of the issuer defaulting/going bankrupt.
+Finance childbirth in 9 months: You're preparing money for childbirth but want to grow it in the meantime.
+
+High Interest Savings Account gives interest while making sure that you have access to the funds when needed.
+Time Deposit a 1 month time deposit rollover will work, but take into account that when near the 9th month you might need to terminate it earlier.
+Retire in 20 years: You want to retire early and want as much return from your funds as possible. You don't need the money anytime soon and seeing it in a sea of red doesn't bother you.
+
+Index Funds there's been a lot of talk on what kind of fund is best. It's been the community consensus to invest in an Index fund. When looking for an index fund you want the lowest fees possible. Right that is through FMETF. Do the cost averaging method and religiously invest every month/quarter.
+Foreign Funds as an alternative you can also invest in funds of other countries. Usual recommendation is for the US given its reputation as the world's top economy. In the Philippines you have feeder funds that invest in the US index: Sec Bank & BPI (also offers peso denominated fund)
+MP2 is a voluntary savings program by PAGIBIG. It offers annual interest returns while your principal is government secured. Your fund will be locked in for the entire period but this isn't a problem for your timeline. Read more here
+Here's the investment cheatsheet from the FAQ
+
+??? Phase
+You need to diligently keep applying all the previous steps. Monitor your expenses, control you spend, ensure your emergency fund is sufficient, and keep investing.
+
+In the previous steps we've talked about controlling expenses and investing. That's because our expenses is something we have immediate control over. But our savings is a function of income - expenses. In this phase you can start looking at how to improve your income.
+
+Reinvest in yourself, get new skills and complete certifications you can use to ask for a better salary. Maybe even monetize a skill/hobby you have.
+
+Make sure to control life style creep, when you get a promotion or a raise make sure to save some for investing. The higher your savings rate the sooner you get to retire. READ THIS FOR THE MAGIC OF SAVINGS RATE
+
+But remember, don't be obsessed with the money, money works for you and not the other way around. Don't sacrifice your wellbeing for the sake of saving money. Take the time to enjoy yourself as well. Treat yo'self bish
+
+Here's the long part of journey. You might have done everything before this in under a year but after this, it's going to be a long time till the next phase. Make sure to stay the course and live your life.
+
+Setting a Retirement Goal
+To consider retirement you need to know your magic number. I suggest looking at FIRE for those who want to learn more about this. But a quick rundown is that you need at least 25 times your annual expense invested in order to live off investments without having to work.
+
+If you spend PHP1,000,000 per year you need at least PHP25,000,000.
+
+To improve the speed you achieve FIRE savings rate is the ultimate tool. HERE'S ANOTHER TAKE ON SAVINGS RATE. Higher income + lower expenses = higher savings rate.
+
+The numbers around FIRE is currently based in the US so you need to consider that in your assumptions.
+
+Here's the wiki resource for FIRE
+
+-- by u/DiscourseRelated (July 2, 2020)
+
+If you're reading this and you have comments or suggestions, don't hesitate to pm me u/DiscourseRelated
+
+Last revised by esb1212 - 3 years ago
+
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+PostsTop 10sFAQFinancialsReturnsDiscord
+
+
+1 new comment
+
+280
+
+Posted byu/[deleted]4 years ago
+
+Kickoff of r/phinvest Personal Finance Guide Project! Topic 1: Do You Need Insurance?
+Insurance
+Hello everyone!
+
+The PF-Guide team assembled in the phinvest discord server to create a decision map for several personal finance areas, first of which is one of the most discussed and most controversial topics in phinvest: Life Insurance.
+
+This project hatched from u/Octobrew's comment here, and acted upon by u/dgxxiii and initiated by u/ninja4lyf. A lot of people on the server pitched in their share, from proofreading and accessibility to logical flow and future possibilities - you know yourselves. A big thank you to you all!
+
+You can find the link to the full-sized map in our FAQs, and below is a preview:
+
+r/phinvest - Kickoff of r/phinvest Personal Finance Guide Project! Topic 1: Do You Need Insurance?
+Please visit our FAQs for the full-sized version.
+
+This map is a culmination of comments, posts and random discussions in r/phinvest and in the discord server about insurance. This is not necessarily a one and done thing, we are open to comments and suggestions and we'll try our best to incorporate your ideas!
+
+EDIT1: We've made some changes in the chart based on inputs from u/lebron2zorros and u/davemacho. Special thanks to @~LoafieBear from discord for the watermark and logo!
+
+EDIT2: u/that_omashu_merchant created a wonderful interactive version of the chart here. Please check it out!
+
+With that out of the way, we'd like to conduct a poll to gauge interest for the next topic that will be covered by the PF-Guide. We won't necessarily create one for the winner, because we may not have enough knowledgeable contributors (looking at you Forex).
+
+Which topic below are you interested in seeing a guide similar to the one above? Please share in the comments why, as well as your expectations for the topic of your choice!
+
+571 votes
+184
+32.2%
+Basic Personal Finance (Budgeting, Saving, Banking & Credit)
+78
+13.7%
+Fixed Income Investments (Bonds, Preferred Shares)
+103
+18.0%
+Stocks (FA, TA, Index Investing)
+66
+11.6%
+Pooled Investment Funds (UITFs/MFs, Cooperatives)
+77
+13.5%
+Businesses & Alternative Investments (Real Estate, Forex, etc.)
+63
+11.0%
+Retirement & Wealth Management (Taxes, Estate, FI/RE)
+Voting closed 4 years ago
+62 Comments
+
+Share
+
+Comment as saintmichel
+
+Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Markdown Mode
+Sort By: Best
+|
+Search comments
+View discussions in 5 other communities
+
+level 1
+lebron2zorros
+·
+4 yr. ago
+Doon po sa "Does someone rely on me financially" na box, paano po kung Yes ang answer, pero parents (at hindi children) ang dependents?
+
+
+30
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+4 yr. ago
+Great point! The idea behind was that parents generally should not be dependent on you, but we will take this into account and add relatives/loved ones to the "Do I have children?" box. Thank you!
+
+
+31
+
+
+Reply
+Share
+
+
+level 3
+lebron2zorros
+·
+4 yr. ago
+Thank you po. Lagyan nyo rin po siguro ng watermark na phinvest kasi baka nakawin ito ng mga insurance companies.
+
+
+38
+
+
+Reply
+Share
+
+
+level 4
+[deleted]
+·
+4 yr. ago
+Oh, great idea! I'd love it if they reference it though since it promotes sound insurance decision making ^_^
+
+
+20
+
+
+Reply
+Share
+
+
+level 4
+ninja4lyf
+·
+4 yr. ago
+The updates are up, both at the post and the FAQ page. Thank you for the suggestion.
+
+
+7
+
+
+Reply
+Share
+
+
+level 5
+lebron2zorros
+·
+4 yr. ago
+This post deserves to be gilded more. Thank you!
+
+
+2
+
+
+Reply
+Share
+
+
+level 6
+ninja4lyf
+·
+4 yr. ago
+Knowing it's helpful and appreciated is enough for us.
+
+
+2
+
+
+Reply
+Share
+
+
+level 3
+gr33n3ggsnh4m
+·
+4 yr. ago
+Kailangan nga ito, for the user to consider whether it makes sense to buy insurance for the parent. And then what kind? Term life? HMO? Health insurance?
+
+
+8
+
+
+Reply
+Share
+
+
+level 2
+_luna21
+·
+4 yr. ago
+Same concern hehe
+
+
+2
+
+
+Reply
+Share
+
+
+level 2
+budoyhuehue
+·
+4 yr. ago
+( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°)
+
+
+-1
+
+
+Reply
+Share
+
+
+level 1
+gr33n3ggsnh4m
+·
+4 yr. ago
+Excellent and very well done guys, salamat!
+
+Let’s do flowchart on investing too. Lots of newbies keep asking,
+
+“mababa na ba ang presyo, time to buy na ba?”
+
+“kung long term ako bibili na ba ako?”
+
+“ok po ba if i buy (insert shell company with no business activities yet pretending to be an operational company) now anyway long term pa naman ako”
+
+“Ok po ba magpasok lang ako ng XXX amount sa FMETF or MP2 every month for my retirement po?”
+
+
+28
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+4 yr. ago
+We hope to cover these in stocks. We'll definitely be asking your help once we get there. :D
+
+
+2
+
+
+Reply
+Share
+
+
+level 3
+gr33n3ggsnh4m
+·
+4 yr. ago
+Happy to help pero mas may expert pa sakin :)
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+dgpercy95
+·
+4 yr. ago
+hoping for a more comprehensive guide on basic personal finance divided into two:
+
+as single
+
+with dependents
+
+also, sobrang thank you po for this, it's much easier to understand and helpful in decision making. hehe/
+
+
+13
+
+
+Reply
+Share
+
+
+level 1
+Kumiko_v2
+·
+4 yr. ago
+Sobrang need talaga natin ng r/personalfinance na PH version/setting.
+
+Not sure kung capable ba yung vehicles/tools natin here as compared sa ibang bansa pero grabe din yung mga nababasa ko doon. ang galing nila.
+
+
+11
+
+
+Reply
+Share
+
+
+level 1
+davemacho
+·
+4 yr. ago
+If someone is in his early 20s with no dependent, do you advise against getting whole life insurance to take advantage of lower premium rates?
+
+While it is not a priority, there is value in getting a policy at a young age for future use, benefiting his dependents during his 30s/40s, and also allowing him to save on cost of premium. What do you think?
+
+
+9
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+4 yr. ago
+·
+edited 4 yr. ago
+Yes, davemacho, this is a plausible option! In general, whole life insurance premiums will be more expensive than term from the get-go (even if you are still in your 20s, and it will be "cheaper" only after a certain age), so if you can afford those premiums, the map does point you to whole insurance.
+
+EDIT: Oh wait, I misunderstood. You mean if you do not have dependents? We'll discuss this as this is quite a point of contention.
+
+
+7
+
+
+Reply
+Share
+
+
+level 3
+ninja4lyf
+·
+4 yr. ago
+u/davemacho 2 points for me:
+
+Will your ending net worth (estate planning for future dependents) be big enough to choose whole life over term?
+
+Are you an employee? or a businessman?
+
+If your the former then you plan to stay longterm in a company that offers group insurance, you might not need insurance for estate planning (term, VUL, whole life)
+
+
+6
+
+
+Reply
+Share
+
+
+level 4
+davemacho
+·
+4 yr. ago
+Ending net worth is uncertain at an early age. And someone in his 20s may start as an employee then put up a business later on. Is it a good choice not to get whole life insurance at all since the future is uncertain and he has no dependent yet? Just opening this up for discussion.
+
+I'm in my 30s now, got a VUL policy in my 20s, and just added a term policy recently as my net worth increased. I'm thinking if it might have been better if I just got a whole life policy in my 20s with a larger redemption value and lower premium cost.
+
+Do you even factor in projected/future net worth and dependents' expenses when making a decision to get an insurance, or just decide based on present circumstances and add policies with sufficient value later on?
+
+
+2
+
+
+Reply
+Share
+
+
+level 5
+ninja4lyf
+·
+4 yr. ago
+·
+edited 4 yr. ago
+Maybe the Whole Life vs. BTID comparison can help shed some light. Summary - BTID won by a mile.
+
+
+6
+
+
+Reply
+Share
+
+
+level 1
+ninja4lyf
+·
+4 yr. ago
+·
+edited 4 yr. ago
+Additional Note:
+
+For the "consolidated reasons" on how we came up with the insurance guide-map, you can refer to this pinned comment at discord's #pf-guide channel.
+
+Special thanks also to u/tagongpangalan. Witch and me were both doubtful, he provided the needed nudge to make this project happen.
+
+
+5
+
+
+Reply
+Share
+
+
+level 2
+ninja4lyf
+·
+4 yr. ago
+·
+edited 4 yr. ago
+Adding more related links, in case interested.
+
+Insurance simple rule
+
+VUL - mathematical vs. behavioral sense
+
+What VUL really is
+
+The myths of VUL (positive defense)
+
+Estate planning and benefits
+
+
+5
+
+
+Reply
+Share
+
+
+level 1
+hackingmoneyph
+·
+4 yr. ago
+It's been crazy seeing the progress on this in the Discord, and I can't believe you got something to publish so quickly!
+
+Can't wait to see more
+
+
+5
+
+
+Reply
+Share
+
+
+level 1
+Octobrew
+·
+4 yr. ago
+Whoa! Thank you so much for this. Kudos to the great work you've done!
+
+
+4
+
+
+Reply
+Share
+
+
+level 2
+ninja4lyf
+·
+4 yr. ago
+Look who's here, this is your fault. 😄
+
+Btw, I haven't noticed you in discord. Join us if you have time, this is the invite https://discord.gg/SKfYfPz.
+
+
+3
+
+
+Reply
+Share
+
+
+level 3
+Octobrew
+·
+4 yr. ago
+Joined in but used a different username. Thanks again!
+
+
+3
+
+
+Reply
+Share
+
+
+level 1
+[deleted]
+·
+4 yr. ago
+sana pwedeng all of the above! wag na mag-poll hahaha
+
+
+3
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+4 yr. ago
+No worries! This is just a poll for our next topic, we're planning to do as many as we can, but quality and speed of output will of course be dependent on the availability of contributors.:
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+Comment deleted by user
+·
+4 yr. ago
+
+level 2
+esb1212
+·
+4 yr. ago
+·
+edited 4 yr. ago
+Yes it means net worth now to determine if you need protection. If you currently have the target coverage of atleast 5% from your NW - you can opt to self-insure. Otherwise follow the line.
+
+Net Worth is what you own minus what you owe.
+
+Insurance coverage is different for everyone, that depends on the coverage needed by your dependent(s) in an unlikely event you die. Usually they should be left with atleast 3 years worth of expenses.
+
+
+2
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+4 yr. ago
+To add, 5% is a fairly arbitrary choice. One question you need to ask yourself is, "Am I comfortable losing x% of my net worth in case I get sick?" If you are comfortable with losing 50% of your wealth to pay for your hospital bills, you do you. 5% is chosen because for those starting to build their wealth, you should only be allotting at most 5% of your income to insurance premiums.
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+[deleted]
+·
+4 yr. ago
+Thank you! I salute all of you!
+
+
+3
+
+
+Reply
+Share
+
+
+level 1
+Paula2019
+·
+4 yr. ago
+This is awesome! Thanks/ Can I share it in personal social media platforms as it now has a watermark? Do you have an account I can tag in the post?
+
+
+3
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+4 yr. ago
+Hi! As this is not my personal work, please credit the entire subreddit, taking note that this is made from the efforts of many contributors. Also, convince your followers to check out r/phinvest.
+
+
+5
+
+
+Reply
+Share
+
+
+level 3
+Paula2019
+·
+4 yr. ago
+Duly noted!
+
+
+1
+
+
+Reply
+Share
+
+
+level 1
+kwickedween
+·
+4 yr. ago
+This is nice! Medyo at ease na ako sa mura kong VUL (P20k annual premium). Thank you!
+
+
+3
+
+
+Reply
+Share
+
+
+level 2
+iamlordbaelish
+·
+4 yr. ago
+Hi, how much is ur coverage?
+
+
+1
+
+
+Reply
+Share
+
+
+level 3
+kwickedween
+·
+4 yr. ago
+P300k death benefit with P300k CI rider.
+
+
+3
+
+
+Reply
+Share
+
+
+level 1
+[deleted]
+·
+4 yr. ago
+yehey! ang galing-galing nyo, guys!
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+mrindependent_MNL
+·
+4 yr. ago
+Thank you guys! I found this very helpful! I'm in a job right now with a very good HMO but I've been playing with the idea of moving to a lower-paying job with even less HMO coverage (for skill building) and then just back on my insurance. The flowchart gave me a categorical answer on the importance of my HMO in that decision. Cheers!
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+ccesarn
+·
+4 yr. ago
+You may also add before Critical Illness, do I have family history of cancer, heart attack, hypertension, stroke, etc?
+
+
+2
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+4 yr. ago
+Hello! Yes, this is what we mean by "relatively at high risk of acquiring a terminal illness"
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+armagedDhon
+·
+4 yr. ago
+Very informative and helpful! Thank you for this!
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+BluePath2
+·
+4 yr. ago
+This is very informative! Can I download the image and study it?
+
+
+2
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+4 yr. ago
+Yes, of course!
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+Comment deleted by user
+·
+4 yr. ago
+
+level 2
+[deleted]
+·
+4 yr. ago
+I believe this is a pretty niche circumstance to be included in a general guide, but to answer your question, you can still follow the guide, but you need to consider additional things:
+
+For HMO, choose an annual coverage. This should be pretty easy, as most HMO are annual by nature.
+
+For Critical Illness, you need to look for a policy that will cover you even if you already live abroad (ask your agent about this).
+
+Alternatively, if you are still quite young by the time you migrate (say, in your early 30s), you can choose to get your CI insurance abroad. Depending on the country you migrate in, they may have better deals for you over there. However, if you are older than 35, there's a high chance it would be very expensive, in which case you should probably do #2 instead.
+
+For Life insurance, same as #2 or #3. Another option is to get term insurance for 5-10 years, if you project that by that time you're out of the country.
+
+As you can see this is a pretty complex decision, and depends on a lot of things. Will your beneficiaries stay in the country or will you take them? What kind of country are you going to migrate in? How's their healthcare, etc.
+
+As an additional note, this is why you need to look for an agent that is knowledgeable and not just in it for your money. They should be able to answer these questions for you, on a personalized basis. Their job is to take care of your insurance needs.
+
+
+4
+
+
+Reply
+Share
+
+
+level 1
+ninjawarriors
+·
+4 yr. ago
+Ang galing!
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+traintiu00
+·
+3 yr. ago
+according to this flow chart what i need is a health insurance but what i have now is life insurance? should i withdraw funds or just restructure what i have?
+
+
+2
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+3 yr. ago
+Actually the flowchart continues after you stop at health insurance/HMO/CI. What are your results on the life insurance portion?
+
+
+2
+
+
+Reply
+Share
+
+
+level 3
+traintiu00
+·
+3 yr. ago
+i actually forgot to mention that sorry. it said that i don't need a life insurance right now.
+
+
+1
+
+
+Reply
+Share
+
+
+level 4
+[deleted]
+·
+3 yr. ago
+I presume you're single with no dependents. Cancelling your insurance depends on a lot of factors. How much is your coverage, how many years you are paying, how much of your income goes to the premiums, your future plans, etc.
+
+My general advice for switching/cancellation insurance is as follows (I'm going to assume that your life insurance is a VUL):
+
+If you have no HMO/health insurance of any form, prioritize getting one first.
+
+Compute how much of your net income (salaries less taxes) goes to both the life insurance and health insurance premiums. If it's above 10%, I suggest you give up the life insurance since you don't need it now, and it eats up way too much of your income that you'd rather save or invest.
+
+If your income is high enough that the life insurance premiums are a minimal expense for you:
+
+You have the choice to keep it, especially if you've been paying it for a long time (the charges are all paid up). Same goes if you know nothing about investments.
+
+If you are planning to have dependents in the near future (3 or so years?), then you might end up needing an insurance anyway. You need to crunch some numbers and see if you'd be better off paying that insurance for the rest of the payment period (with occasional top-ups), or if you do BTID.
+
+Unfortunately, each case is unique, so I can't give you any more tips beyond this.
+
+
+2
+
+
+Reply
+Share
+
+
+level 5
+traintiu00
+·
+3 yr. ago
+wow thank you for taking time answering this really helps my decision making. stay awesome and safe always.
+
+
+1
+
+
+Reply
+Share
+
+
+level 1
+Cute_Monitor_8073
+·
+3 yr. ago
+·
+edited 3 yr. ago
+I'm in my 20s and have 1 dependent. Seeing the flow chart asking if I have HMO (which I don't) before opting for insurance makes me think I shouldn't get insurance yet? I've been offered whole life insurance from Prulife for 2.5k/month with 1.5M death benefit, CI or Accident/Disability rider benefits as well. Should I consider getting an HMO before diving into life insurance?
+
+
+2
+
+
+Reply
+Share
+
+
+level 1
+keyboardwarriorPH
+·
+4 yr. ago
+Thanks for this
+
+
+1
+
+
+Reply
+Share
+
+
+level 1
+lemecee
+·
+3 yr. ago
+How about an alternate route/suggestions for people from “Do I have co-signed loans —> Life insurance may not be a priority for now”. I mean, if it’s not a priority right now, what else should we do or invest in at the moment?
+
+
+1
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+3 yr. ago
+Hi! Well first of all, life insurance is not an "investment" in the traditional sense, it's for income protection. This flowchart is to find out whether your current situation requires you to get income protection, and if so, what type of insurance (term, whole, VUL) would be suited for you. If you ended up in "life insurance may not be a priority" then clearly you can divert your funds to other investments (mutual funds, bonds, stocks, etc.) but that is out of scope for this activity.
+
+
+5
+
+
+Reply
+Share
+
+
+level 3
+lemecee
+·
+3 yr. ago
+Thanks for this. I just felt stumped after I reached the “life insurance may not be a priority for now”.
+
+
+1
+
+
+Reply
+Share
+
+
+level 1
+_katrienne
+·
+3 yr. ago
+very useful!!! thank you po!
+
+
+1
+
+
+Reply
+Share
+
+
+level 1
+marvmmmd
+·
+3 yr. ago
+❤️
+
+
+1
+
+
+Reply
+Share
+
+
+level 1
+SirAdeno
+·
+3 yr. ago
+Hi. Why aren't combined life and health insurance policies not have a mention here? Are those actually bad? If so, why?
+
+
+1
+
+
+Reply
+Share
+
+
+level 2
+[deleted]
+·
+3 yr. ago
+They actually are. "Health Insurance" and "Critical Insurance" usually have life insurance bundled with them. You'll have a harder time finding stand-alone products for those than bundled ones. As to whether they're good or bad, that would depend on your needs. It's different from person to person.
+
+
+1
+
+
+Reply
+Share
+
+
+level 1
+bravedreamer
+·
+3 yr. ago
+Is there an inexpensive vul?
+
+
+1
+
+
+Reply
+Share
+
+
+level 1
+[deleted]
+·
+4 yr. ago
+·
+edited 4 yr. ago
+u/ekajii might be helpful
+
+
+1
+
+
+Reply
+Share
+
+
+
+
+
+
+
+
+
+Last revised by ttjjdd - 3 years ago
+
+
+
+
+
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+Index Overview
+(General Resources)
+(General Topics)
+A
+Agribusiness
+Angel Investing
+B
+Bank Statements
+Bear Market
+Blue Chip Stocks
+Brokerage Fees
+Brokers
+BTID
+Budgeting
+Burial Insurance
+Business Financing
+Business Plan
+Business Ventures & Startups
+C
+Careers
+CASA Deposits
+Corporate Bonds
+Cost Averaging
+Credit Card Debt
+Credit Card Rewards
+Credit Cards
+Credit Score
+Critical Illness Insurance
+Crowdfunding
+D
+Deposit Insurance
+Discretionary Expenses
+Dividend Stocks
+Dividends
+E
+Embezzlement
+Emergency Fund
+Employee Contribution Plan
+Endowment Insurance
+Equity Funds
+Erroneous Trade
+Estate Planning
+Exchange-Traded Funds
+F
+Feeder Funds
+FI/RE Movement
+Financial Advisors (FA)
+Financial Cooperatives
+Financial Crisis
+Fiscal Policy
+Foreclosed Property
+Franchising
+Fraud
+Freelancing
+Frugal Mindset
+Fundamental Analysis
+G
+Gambling
+GDP
+Growth Stocks
+H
+HMO
+Home Financing
+Home Ownership
+Housing Bubble
+I
+Income Class
+Index Funds
+Inflation
+Initial Public Offering (IPO)
+Insider Trading
+Insurance Coverage
+Insurtech
+Interest
+International Investing
+International Trade
+Internet & Mobile Banking
+Investment Objectives
+Investment Property
+Investment Returns
+Investment-Linked Insurance (VUL)
+J
+K
+L
+Life Insurance
+Long-Term Negotiable Certificates of Deposit (LTNCD)
+Low-Income Budgeting
+M
+Market Crashes
+Market Cycles
+Market Risk
+Medical/Hospitalization Insurance
+Mergers & Acquisitions
+Micro, Small & Medium Enterprises (MSME)
+Mobile Wallets
+Monetary Policy
+Money Market Funds
+Multi-Level Marketing (MLM)
+Mutual Company
+Mutual Funds
+N
+Net Income
+Net Worth
+Networking
+O
+Online Selling
+P
+Paper Trade
+Passive Investing
+Pension Plan
+Personal Accident Insurance
+Personal Finance Apps
+Personal Loans
+Ponzi Schemes
+Preferred Shares
+Premium Banking
+Pretax Contributions
+Private Equity
+Prize Bonds
+Property Financing
+Pyramid Schemes
+Q
+R
+Real Estate Development
+Real Estate Investment Trust (REIT)
+Recession
+Renting
+Retail Treasury Bonds (RTB)
+Retirement
+Robo-Advisors
+S
+Salaries & Wages
+Sandwich Generation
+Saving
+Self-insurance
+Short Selling
+Short Term Funds
+Stock Investing
+Stock Manipulation
+Stock Market Index
+Stock Picking
+Stock Ratings
+Stock Trading
+Stockbrokers
+Stocks
+T
+Tax-Advantaged Schemes
+Taxes
+Technical Analysis
+Telecommuting
+Term Insurance
+Time Deposits
+Trade Indicators
+Trade Orders
+Trade Signals
+U
+Unit Investment Trust Funds
+V
+W
+[Wedding Budget][Wedding Budget]
+Whole Life Insurance
+X
+Y
+Z
+Go back to FAQ main page
+
+Index Overview
+This is a collection of notable r/phinvest posts as of February 29, 2020. The criteria for selection is at least 10 upvotes, sorted according to weighted score (60% of comments + 40% of upvotes) Majority of topics from #General Investing, #Investment/Financial Advice, and #Personal Finance are initially excluded due to volume of content.
+
+The index will be updated periodically. Feel free to add more relevant links (even with few upvotes), especially for under-discussed topics!
+
+(General Resources)
+Thread	Poster	Posted	Points
+1. investment cheat sheet	u/speqter	2019-10	196.5
+2. Best Financial Blogs in the Philippines for 2020	u/Uncle_Iroh107	2020-01	45.5
+3. Books, articles or tutorial videos that you advice to help starters on finance and investing	u/martindalton	2019-08	41.5
+4. PLEASE READ ME FIRST BEFORE POSTING	u/treeperfume	2019-07	35.5
+5. To all tenured redditors on r/phinvest	u/esb1212	2019-08	35
+6. These needs to be said	u/esb1212	2019-07	29.5
+7. Viber groupchat for like-minded investor/savers?	u/klook88	2019-01	29
+8. Any good pinoy podcasts for financial literacy?	u/riouizzy14	2019-07	24.5
+9. Looking for books	[deleted]	2019-05	23.5
+10. Resources to Learn Stocks?	[deleted]	2020-02	22.5
+11. What books would you recommned re: investing in the Philippines?	u/Hiraeth21	2019-05	19.5
+12. Got movie recommendations about investments?	u/pttyfx96	2019-09	19
+13. Are there guys here who listen to finace related podcasts?	u/jeanduarc	2019-12	18.5
+14. Great books on financial literacy that are available at your friendly neighborhood NBS?	u/jcw5000	2019-07	18
+15. Guide for learning Investing?	u/emoticonlessly	2019-12	16
+16. Which Pinoy personal finance blogs to you read?	u/wtrmrk	2019-10	15.5
+17. PH Invest Quick Start, FAQ and Updates	u/treeperfume	2017-04	14.5
+18. Insurance Community in the Philippines (r/phinsurance)	u/insurans	2019-08	14.5
+19. FULL AUDIOBOOK Rich Dad Poor Dad by Robert Kiyosaki	u/stillnessintheether	2019-08	14
+20. LF : The Intelligent Investor	u/jewjew_on_the_beat	2018-09	13.5
+21. PH equivalents to r/personalfinance advice?	u/Octobrew	2019-06	12.5
+22. Please read the sub's FAQs first or try searching before posting.	u/yhanzPH	2019-07	12
+23. Best Seminar/Workshop You've Attended	u/ryan2996	2019-10	11.5
+24. [HELP] Tutorials, Ebooks or Website about investments	u/jewjew_on_the_beat	2018-05	10.5
+25. What's your recommended starter book for investing in the Philippines?	u/enthezone	2019-10	10.5
+26. Best Investing/Trading Books to read	u/lenko0907	2019-08	9.5
+27. Audiobooks and/or anything along that lines	u/CATalyst_MALEViOLENT	2018-09	8
+28. Maybe you guys might find something interesting here.	u/hiimanemo	2019-05	5.5
+(General Topics)
+Thread	Poster	Posted	Points
+1. Phinvest wives, invest in yourself first	u/phinvest_throw	2019-12	126
+2. What's your greatest financial regret so far in this year?	u/Thatbrownhash	2019-12	87.5
+3. The 20's Club, Where do you want to be when you're 35 or higher. What are your game plans?	[deleted]	2019-10	70
+4. I want to quit my job asap. Feels like I'm dragging myself to work EVERY.SINGLE.DAY. But I can't afford to stop because my family will be in trouble if I do so. But I feel exhausted and stressed inside our office. Words of encouragement please?	u/yourkindnesss	2020-02	70
+5. 2018 is about to end. Mind sharing your invesment stories? Gain or Loss. :D	[deleted]	2019-01	62
+6. The 11 things I am grateful about: Blessings in 2019	u/iamlordbaelish	2019-12	58.5
+7. Thank you r/phinvest	u/pasighugdealer	2019-10	56.5
+8. 2 ways to get ahead financially this 2020.	u/MemoryEXE	2019-12	54.5
+9. What's the biggest financial mistake that you've done?	u/2cute4ya	2019-04	51.5
+10. Do you need motivation to earn money?	[deleted]	2019-08	49.5
+11. Anyone who grew up with parents terrible at financial decisions, how did it affect you?	u/jojobaoily	2019-07	49
+12. 400-600k 2nd hand car? Or stretch the budget to 1m for a new one?	u/bekenemen	2020-02	46.5
+13. I went to PSE Centre earlier.	u/esoreiramdc	2019-09	45
+14. Relationship Finance Advice	u/dmyccnt	2019-05	42
+15. Anong point ng lahat?	u/ninjasexpanda	2019-10	42
+16. Great DOTA analogy from Woke Salaryman	u/projectbear25	2020-02	40
+17. Self-Improvement: Invest in Yourself	u/mio28	2019-12	38.5
+18. What is your hobby and how much do you spend for it?	u/sugarooni	2020-02	38.5
+19. Need some advice after getting a new job	u/Deliverekt_Man	2019-12	32
+20. Share your experience buying repossessed cars	u/riocallos	2019-10	29
+21. College drop outs, what came into your head in college and where are you in life right now?	u/jojobaoily	2019-08	28.5
+22. What is your hobby and how much do you spend for it?	u/sugarooni	2020-02	27
+23. Life hack to financial freedom: invest muna landi later. Yay or nay?	u/ejtumz	2020-02	26
+24. Career change	u/mrsantolbayabas	2020-02	25.5
+25. BREAKING: Henry Sy Sr. — PH’s richest man and philantrophist — passes away at 94	u/tagongpangalan	2019-02	25
+26. 25, feels financially lost	u/belister24	2020-01	24.5
+27. Kapit lang. Malapit na mag 15 guys!!!	u/passionatebigbaby	2019-08	24
+28. What would you want to say to your 20yo self?	u/snow_pringle	2018-12	23.5
+29. Investing for dummies	u/lorp162000	2019-10	23
+30. John Gokongwei, PH's 3rd richest man passes away at 93	u/dellderma	2019-11	22.5
+31. Why the Rich get Richer	u/zerimhar	2018-08	22
+32. What is your unpopular personal finance/ investment opinion?	u/Yamboist	2019-07	21.5
+33. Losses in stocks	u/craniumwolf	2020-02	21.5
+34. Beta testers needed for a new daily market recap email newsletter, "Merkado Barkada"	u/DuncnIdahosBandurria	2019-06	21
+35. Smc warehouse burning	u/vanillevanilla	2020-01	21
+36. r/phinvest EB	u/8ghtsaves	2020-01	20.5
+37. Wow u/uncle_iroh107 linked by rappler!	u/donyadine	2019-08	19
+38. What are your plan Bs in life?	[deleted]	2019-11	18.5
+39. Car. Necessity o luxury?	u/RWTWx	2020-01	18.5
+40. 5k for stocks investment.	u/kbforro	2019-12	18
+41. How will the 2019 midterm election affect our investments?	u/engot101	2019-06	17.5
+42. What if you lost it all... how would you recover?	u/iHateElves	2019-05	17
+43. index card investing. what you should do in one index card.	u/pilosopotacio	2018-10	16.5
+44. Please vote in the r/phinvest Discord Christmas logo contest	u/dgxxiii	2019-11	15
+45. How did you get out of the rat race?	u/prefermenter	2019-08	14.5
+46. 8 PH firms land on Forbes list of Asia-Pacific's top listed companies	[deleted]	2019-08	14
+47. No trading at PSE today	u/tropango	2020-01	14
+48. First time to invest in the stock market - Feed backs?	u/jsndxtr	2019-09	13.5
+49. Help me help my Mom learn financial literacy, who stopped paying SSS and Pag-ibig since 2013.	u/thebvy	2020-01	13.5
+50. Best short term deposit/investment	u/undergrade21	2019-11	12
+51. 20 y.o. student here. What are the basics?	u/gratzieabate	2018-01	11.5
+52. Where do I invest excess cash?	u/manila2seattle	2019-08	11.5
+53. All the financial advice you’ll ever need fits on a single index card	u/pilosopotacio	2018-11	11
+54. Trading Module by Moneygrowersph	u/SGTPEPPER_27	2019-10	11
+55. Finally taking a separation pay offer after 10 years of low salary at supervisory position. Can you give me some advice on what to do next, given my goals?	u/bitterpearl	2020-02	11
+56. Razon buys 25% stake in Manila Water	u/nix3rdnochi112324	2020-01	10
+57. PH Invest 101	u/ubejam	2014-07	8
+A
+Agribusiness
+Thread	Poster	Posted	Points
+1. Organico is a Ponzi Scheme	u/Mercador42	2019-02	82.5
+2. Legit check: Organico Agribusiness Ventures	u/11redlines	2018-12	40
+3. SEC warns public against investing in Broilerpreneur, ADA Farm, Ever Arm	u/lopezjessy	2019-07	30.5
+4. Poultry farming with Tunnel Ventilated houses	u/2klude	2019-06	29
+5. FarmOn.ph 19th Cycle Registration	u/disasterpiece013	2018-07	25.5
+6. FarmOn and Cropital: Both not registred with SEC? Why do people still invest?	u/Dragon_Hill_Farm	2019-07	22
+7. New Investment from Farmon	u/Yamboist	2019-03	18.5
+8. Does anyone here have an agribusiness?	u/Garlicbreadislyfer	2019-07	18
+9. Agribusiness	u/luffyprtking	2018-04	16
+10. FarmOn	u/PityYouWeak	2019-08	13.5
+11. how much is needed to start a farm?	u/MysteriousRobyn	2019-02	12.5
+Angel Investing
+Thread	Poster	Posted	Points
+1. Angel Investing	u/MarSarah21	2019-07	9.5
+B
+Bank Statements
+Thread	Poster	Posted	Points
+1. How do you define a "good" bank statement?	u/skipperjack	2019-08	28.5
+2. Online Banks Proof of Account	u/Send_some_BITCOIN	2019-10	13
+Bear Market
+Thread	Poster	Posted	Points
+1. Bear Market - guide a beginner	u/aaahchoo	2018-06	28.5
+Blue Chip Stocks
+Thread	Poster	Posted	Points
+1. Top 5 Blue Chip Stocks in the next 5 years	u/Mastermind_AM	2018-07	11.5
+2. I want to start investing but I have a day job. Should I focus first on mid-risk (blue chips) and funds or high-risk stocks?	u/annoyingartworks	2019-02	11.5
+3. Traders be like	u/SaktongChill	2019-02	11
+Brokerage Fees
+Thread	Poster	Posted	Points
+1. Beware of eToro fees	u/ParadiseAppleFields	2019-11	31
+2. How does tax and commission fees work when investing in stocks e.g. COL?	u/distractedcat	2019-02	16.5
+Brokers
+Thread	Poster	Posted	Points
+1. Beware of eToro fees	u/ParadiseAppleFields	2019-11	31
+2. Thoughts about Seedbox PH?	[deleted]	2019-08	21.5
+3. How to Open a TD Ameritrade Account	u/Uncle_Iroh107	2019-04	15
+4. TD Ameritrade Account (Account Opening)	u/unionizedproton	2019-10	15
+5. if you guys are looking for an online facility to invest, try seedbox.ph	u/hermitina	2018-07	14
+6. TD Ameritrade	u/kurazetsumei	2020-02	13
+7. Best investment platform?	u/Cat_puppet	2019-09	11.5
+8. Any Pinoys who have tried StashAway yet?	u/hermitina	2019-08	10
+BTID
+Thread	Poster	Posted	Points
+1. VUL vs BTID vs Self-insurance Comparison	u/speqter	2019-07	80.5
+2. Actuarial Consultant here! Shoot your questions about insurance!	u/darzXD	2018-10	44.5
+3. Whole Life Plan or Term Insurance? AM I ON THE RIGHT TRACK?	u/kaye020	2020-02	27
+4. BTID Approach: Advice on where to get term insurance with critical illness coverage	u/mav_red	2018-11	8
+Budgeting
+Thread	Poster	Posted	Points
+1. Anong pinakamurang baon mo sa office? XD	u/megronix	2019-08	48
+2. Can Anyone Throw me a Bone in How to Track Expenses?	u/CATalyst_MALEViOLENT	2018-05	42.5
+3. What app are you using to track your expenses, income, savings?	u/coffeeb0y	2019-04	31.5
+4. Might as well post some of my templates here	u/NostalgiaWitch	2019-07	29
+5. It’s not worth it	u/passionatebigbaby	2019-04	28.5
+6. Google Sheets template for budget?	u/KurtinCall	2019-11	19.5
+7. What's the best app for this?	u/ratox__	2019-06	17
+8. PSA : Google sheets has a budget template where you can track your expenses and income	u/baddriversaysthe5yo	2018-11	13
+Burial Insurance
+Thread	Poster	Posted	Points
+1. St. Peter life plan	u/Not_TheSameMe	2019-03	13.5
+2. St. Peter Life Plan	u/lizette007	2019-10	13
+3. How do we know that the St. Peter plan that we're buying is authentic?	u/Iacaiciaa	2020-01	11.5
+Business Financing
+Thread	Poster	Posted	Points
+1. Poultry farming with Tunnel Ventilated houses	u/2klude	2019-06	29
+2. Loaning for my Startup?	u/thisizmark24	2019-09	19
+3. Does anyone here have an agribusiness?	u/Garlicbreadislyfer	2019-07	18
+4. how much is needed to start a farm?	u/MysteriousRobyn	2019-02	12.5
+5. Where and how to get investors for your product?	u/animonafolder	2019-07	11.5
+6. Angel Investing	u/MarSarah21	2019-07	9.5
+7. Beep jeep	u/mrloogz	2019-08	9
+8. Hello mga kabayan, I wanted to ask if anyone here has heard or invested with Powerfill Gas Station? Particularly the co-ownership program. Thanks in advance!	u/kingdimitris	2019-05	7.5
+Business Plan
+Thread	Poster	Posted	Points
+1. Expand Your Business Ideas Using This Simple Worksheet	u/_nessaprime	2019-10	32.5
+2. Steps to take first before starting a business	u/tenkeylessph	2020-01	22.5
+3. Do you have Cheat sheet for starting a SME?	u/grinsken	2019-11	16.5
+Business Ventures & Startups
+Thread	Poster	Posted	Points
+1. Mga dating corpo slave na naging entrepreneurs, what's your story?	[deleted]	2019-08	42
+2. Expand Your Business Ideas Using This Simple Worksheet	u/_nessaprime	2019-10	32.5
+3. Steps to take first before starting a business	u/tenkeylessph	2020-01	22.5
+4. Businessmen of this subreddit i just want to know if anyone here is earning a million pesos or more a month. And what is your business?	u/ddontjudgeme	2019-05	21.5
+5. Tips for a start-up consulting business	u/agentskye	2019-12	20
+6. I made an extensive list of 47 Books about Business that every Entrepreneur should read	u/delseyjones	2019-01	12.5
+C
+Careers
+Thread	Poster	Posted	Points
+1. I'm Broke - Mismanaged my earnings & will probably lose my job	u/earlericksone	2019-07	39
+2. Confused, need advice	u/ohmpere	2019-07	24.5
+3. Need advice for my current situation as a fresh graduate who works from home. How to save money here?	u/neyj_claw	2019-02	19.5
+4. What certifications are worth investing in?	u/Yamboist	2018-10	13
+5. I want to shift careers but dunno what to do	u/ThrowAwayNiPet	2019-04	13
+6. ¿Tips, por favor?	u/niversalism	2019-08	11.5
+7. Junior Trading Researcher - BGC, Taguig (50k to 65k)	u/chris_ph	2020-02	10
+CASA Deposits
+Thread	Poster	Posted	Points
+1. BPI's "Transfer to another bank" feature is now available	u/xxi4mysprog	2019-07	52.5
+2. Some bank products that come with free life insurance (BPI, BDO, Security Bank, RCBC)	u/GamePlan101	2019-07	51.5
+3. Saw this on FB. Do you guys find this necessary?	u/callowtier	2019-04	42
+4. BPI FEE!!!!!	u/ALTITUDE_JP	2019-06	38
+5. Been putting our savings in BPI FSB's Save-up for the free insurance. Did a quick comparison and I guess it's time to consider going with CIMB (not considering non-monetary aspects like least effort of status quo, customer service, etc). Disclosure: not affiliated with CIMB, but Philam FA	u/projectbear25	2020-02	35
+6. ING Philippines at promo rate of 4% p.a. starting August	u/GamePlan101	2019-07	34.5
+7. ING bank 4% interest rate for savings accounts	u/trpzip	2019-07	29.5
+8. [MB] CIMB Bank PH took just 10 months to get 1 million subscribers, er... "members": should BPI and BDO be scared? (link in description)	u/DuncnIdahosBandurria	2019-10	29.5
+9. Rant: BDO opening acct	u/Not_TheSameMe	2019-01	29
+10. WHAT'S THE BEST BANK TO OPEN A PASSIVE SAVINGS ACCOUNT	u/eeennnjjj	2019-07	26.5
+11. What are your thoughts on CIMB?	u/_likha	2019-02	24
+12. BPI Save-Up Experience	u/riocallos	2019-03	23
+13. BPI employees in our branch are not aware of BPI Saveup	u/lenmark04	2019-09	23
+14. Not so popular banks that you've tried that are actually great	u/efrenagan	2020-01	23
+15. Planning to open a BPI Save-Up Account	u/venettosace	2019-06	21
+16. Anyone interested to open an account?	u/esotericaxelrod	2019-05	18
+17. Banks with free ATM withdrawals?	u/zedfrostxnn	2019-10	18
+18. CIMB and ING	u/_Leo___	2019-07	17.5
+19. Do you put all of your EF in 1 account?	u/phlegmhoarder	2019-06	16.5
+20. What are your criteria in selecting a bank for a new account?	u/Less08	2019-05	15.5
+21. Thoughts on ING bank (online)	u/komi20678	2019-06	15.5
+22. Is it better to store my fund for a short term goal in GSave or in a MoneyMarket Fund?	u/MoneyFil7	2019-07	15
+23. Is my calculation on Security Bank's Money Builder Savings Account correct?	u/masagana96	2018-12	13.5
+24. Why most banks are not heavily investing on Cash Deposit Machines?	u/giowitzki	2019-12	13.5
+25. Bank acc.'s	u/positivenina	2019-09	13
+26. BDO Optimum Savings Interest	u/hungrymillennial	2019-03	12.5
+27. BPI Direct: Save-Up Automatic Savings with Insurance	u/imiiiiiiiiil	2020-01	12
+28. What is the difference between 'Savings' and 'Current' accounts as seen through ATM options?	u/patriciamiguela	2020-01	11
+29. Electronic fund transfer available in banks by end-November — BSP	u/bluebalut	2018-10	10.5
+30. RCBC manager guilty of money laundering	u/Sodium_Brain	2019-02	9.5
+31. BPI Save-Up Insurance Coverage	u/riocallos	2019-07	8.5
+32. Recommended Savings account	u/enjunir	2019-01	8
+33. best savings accounts for kids	u/pesolab	2019-05	5
+Corporate Bonds
+Thread	Poster	Posted	Points
+1. Saw this on PNB Facebook page. Do you think it's worth it? It is also subject to 20% tax according to them	u/yomagolti	2019-05	25.5
+2. Thoughts on Metrobank's 3-yr bond @ 6.3% pa?	u/technowar	2019-04	18.5
+3. Another one from PNB	u/yomagolti	2019-05	15
+4. Lend Php50K to Petron Corp. For 6-7 Years and Earn 7.8% to 8.0% p.a.	u/JeanieAiko	2018-11	12.5
+5. Metrobank peso bond, 5.5% annual interest, 20% withholding tax, 500k minimum investment	u/Feanne	2019-07	11.5
+Cost Averaging
+Thread	Poster	Posted	Points
+1. "Cost averaging is absolutely the worst way to do stocks"	u/Sodium_Brain	2019-06	42.5
+2. "How much does investing frequency matter?" - A little data experiment to compare monthly, quarterly and yearly investing on PSEi	u/Yamboist	2019-08	37
+3. Sharing my Financial Planning Template with Historical Data for PSEi, SP500 (Monthly and Yearly) as well as Inflation Rates	u/jfgallego2269	2018-01	14.5
+Credit Card Debt
+Thread	Poster	Posted	Points
+1. Please Help Me With My Credit Card Debt	u/chaerx15	2019-10	27
+2. How to Avail of Credit Card Amnesty Program in the Philippines	u/dellderma	2019-10	13.5
+Credit Card Rewards
+Thread	Poster	Posted	Points
+1. When comparing credit cards, I compare their reward/expense ratios. I've been accumulating (and occasionally redeeming) Mabuhay Miles, which is a component of what I call my "Emergency Portfolio", in case I have to fly home for any parent emergency. For Dining, we use HSBC Gold.	u/projectbear25	2020-02	58
+2. Best BPI Real Thrills Reward	u/hungrymillennial	2019-02	18.5
+3. PH version of r/churning	u/-Paranoia	2019-07	16
+Credit Cards
+Thread	Poster	Posted	Points
+1. Check your credit card transactions regularly	u/hungrymillennial	2019-07	40
+2. Nice to have.	u/drneonauticalmiles	2019-09	40
+3. Can the bank see my transaction history?	u/midnightredditing	2020-02	32
+4. Free Credit to Cash via PayMaya + Free CC points	u/iIetthedogsout	2019-11	29.5
+5. best practical cc	u/kahigtuka	2019-11	26
+6. Recommended CC for a first timer + Advice	u/goodgirltoomuch	2019-08	24.5
+7. Credit Card Application	u/orangehappiness	2019-03	21.5
+8. Best credit card option?	u/kakaiviv123	2020-01	21.5
+9. Newbie to 0% interest installments - need credit card advice	u/theresnobeef	2020-02	19
+10. Credit Card Questions	u/ohnoheshottt	2019-09	18.5
+11. What is the best secured credit card for first timers?	u/Engauge09	2019-07	18
+12. Help on getting my first Credit Card	u/colorfour	2018-07	17.5
+13. Credit Card Feedback	u/angriestman	2019-01	15.5
+14. Planning to get a credit card. Any suggestions on what banks are okay? Thank you!	u/rycco15	2019-04	13
+15. advice for getting credit cards	u/TomoyaOkazaki13	2019-05	12.5
+16. As an 18 year old, would this be a solid credit card to have (even for the future)?	u/MrBigBaller	2019-07	12.5
+Credit Score
+Thread	Poster	Posted	Points
+1. Why your credit score should matter	u/buttermycats	2019-09	121.5
+2. About Getting a Credit Card	u/CATalyst_MALEViOLENT	2019-01	31
+3. Credit Score in the PHL	u/tonnnnn	2019-04	20.5
+4. Easiest CC to get to build Credit Score	u/ryan2996	2019-09	20.5
+Critical Illness Insurance
+Thread	Poster	Posted	Points
+1. FWD's insurance for only 1799php annually for a 100,000 coverage for critical illnesses : YAY or NAY?	u/Its_cmla03	2020-01	16.5
+2. BTID Approach: Advice on where to get term insurance with critical illness coverage	u/mav_red	2018-11	8
+Crowdfunding
+Thread	Poster	Posted	Points
+1. Organico is a Ponzi Scheme	u/Mercador42	2019-02	82.5
+2. Legit check: Organico Agribusiness Ventures	u/11redlines	2018-12	40
+3. Stay Away from Fundko	u/LittleRedRobinHoodie	2019-10	31
+4. FarmOn.ph 19th Cycle Registration	u/disasterpiece013	2018-07	25.5
+5. FarmOn and Cropital: Both not registred with SEC? Why do people still invest?	u/Dragon_Hill_Farm	2019-07	22
+6. New Investment from Farmon	u/Yamboist	2019-03	18.5
+7. FarmOn	u/PityYouWeak	2019-08	13.5
+D
+Deposit Insurance
+Thread	Poster	Posted	Points
+1. PDIC's Bank Deposit Insurance (for those who are unaware)	u/AALO101	2019-08	17.5
+Discretionary Expenses
+Thread	Poster	Posted	Points
+1. How to live a "Contented" life	u/MysteriousRobyn	2018-10	28
+2. Living a Minimalist Lifestyle, How?	u/MysteriousRobyn	2018-10	25.5
+3. Before you buy something, think about how many hours of work it would cost vs just the price	u/delseyjones	2019-03	22.5
+4. How to calculate your real hourly income and why you should do it	u/Uncle_Iroh107	2018-07	10
+Dividend Stocks
+Thread	Poster	Posted	Points
+1. Who else here holding a high dividend yield stocks for at least one (1) year? Transferring to a high growth stocks a better idea?	u/Trueavengers	2019-07	9.5
+Dividends
+Thread	Poster	Posted	Points
+1. How to live off from dividends?	u/linux_n00by	2019-01	28.5
+E
+Embezzlement
+Thread	Poster	Posted	Points
+1. Fallout from R&L rogue trades may hit P2.6B - THIS FRAUD INVOLVED A LOT OF PEOPLE	u/bullsheets_	2019-11	11
+Emergency Fund
+Thread	Poster	Posted	Points
+1. Dave Ramsey's 7 Baby Steps	u/abisaya2	2019-03	64
+2. Emergency Cash On Hand 2020	u/imiiiiiiiiil	2020-01	33.5
+3. Do you put all of your EF in 1 account?	u/phlegmhoarder	2019-06	16.5
+Employee Contribution Plan
+Thread	Poster	Posted	Points
+1. Voluntary Fund	u/khimy_24	2019-09	25.5
+Endowment Insurance
+Thread	Poster	Posted	Points
+1. Non-investment-linked insurance plans exist	u/beapaulene	2019-08	40
+Equity Funds
+Thread	Poster	Posted	Points
+1. Do equity funds really beat the index? (A performance comparison of equity index funds vs equity non-index funds vs the PSEi)	u/speqter	2019-09	33
+2. Identify the best fund from Inquirer article: And the best equity fund is …	u/AmbisyosongAhedres	2020-01	18.5
+3. Which BPI/BDO UITF should I invest?	u/leolannister	2019-01	18
+4. Investment advice (equity index fund/mutual funds)	u/monmon5ter	2019-06	13
+Erroneous Trade
+Thread	Poster	Posted	Points
+1. CEBU PACIFIC stock plunges 38% minutes before PSE closing bell	u/juga705	2019-07	24
+Estate Planning
+Thread	Poster	Posted	Points
+1. Life insurance is usually being tackled here, but what happens to your bank accounts, stock holdings, mutual funds, digital wallets, etc when you pass away? Do we need to set it up in such a way that it's easily redeemable by our loved ones?	u/kevinoxy	2020-02	34
+Exchange-Traded Funds
+Thread	Poster	Posted	Points
+1. How do you compare FMETF vs mutual funds?	u/CoachBobet	2019-09	33
+2. Differences between ETF and Index mutual fund. Credit to Susan Daley of PWL Investing.	u/Master1989871	2019-12	25.5
+3. FMETF question	u/nyokyomas	2019-09	25
+4. PERA and FTMETF	u/trmp10	2019-05	20
+5. How do you earn from FMETF?	u/gvenstoe	2019-10	19
+6. Where to invest first: PERA or FMETF?	u/venettosace	2019-07	17
+7. Why is FMETF not growing as fast as BPIPEIF in terms of assets?	u/AmbisyosongAhedres	2019-11	16.5
+8. FMETF - Still Worth It for the Long-term?	u/Anonymous1995xy	2020-01	15.5
+9. How long should I hold on to FMETF?	u/mybodystellingmeyeah	2019-02	15
+10. Earning 20+k/month, is FMETF for me?	u/denmax94	2019-08	13
+11. Moving my current UITF to FMETF? (investing 1000/month)	u/Josuds	2019-10	12.5
+12. FMETF	u/Seadoug	2019-11	11.5
+13. FMETF - I was curious on how it was performing on "ber" months and what if I bought it monthly since it began, so I made this graph.	u/kevinoxy	2019-09	8
+14. How do you handle your ETF investments?	u/thelostpinay	2019-06	5
+F
+Feeder Funds
+Thread	Poster	Posted	Points
+1. BPI AMTC is launching a new fund - BPI Invest US Equity Index Feeder Fund - Peso Class.	u/jmnativ	2019-11	31.5
+2. Thoughts on Security Bank US Equity Index Feeder Fund?	u/ducklingboi	2019-09	18.5
+3. BPI Invest US Equity Index Feeder UITF now multi-class/multi-currency - USD/PHP	u/AmbisyosongAhedres	2019-11	13
+4. Manulife Asia Pacific REIT Fund	u/Oelskii	2019-11	10.5
+FI/RE Movement
+Thread	Poster	Posted	Points
+1. FIRE Calculator	u/speqter	2019-09	75.5
+2. F.I.R.E. Starting Points	u/ninja4lyf	2019-07	63
+3. FIRE - Financial Independence, Retire Early movement	u/hououinkyouma1008	2019-03	44
+4. Do you think early retirement is possible in the Philippines?	u/alexpoli06051994	2019-09	34
+5. Is there a FIRE community in the Philippines?	u/Hauptstadtjunge	2019-10	34
+6. To those who are planning to achieve FI/RE, what's your story?	u/argonautrock	2018-05	29
+7. Retire at 40 Investment Plan	u/BawlSyet	2019-11	20.5
+8. Savings Rate Impact -- LeanFIRE Update #1	u/ninja4lyf	2019-12	20.5
+9. Anyone here achieved FIRE and what keeps you excited everyday?	u/kungfupandak	2019-01	18
+10. Finance Queries	u/redbucketmorra	2019-07	18
+11. Is it possible to LeanFIRE in the Philippines?	u/grrrrlreddit	2018-10	17
+12. Someone told me that this is the best place ask about Financial management..	u/ennxrre	2019-10	16
+13. How Millennials Can Prepare for Financial Independence	u/dgxxiii	2019-11	9
+Financial Advisors (FA)
+Thread	Poster	Posted	Points
+1. PSA : Financial Advisors ARE NOT Financial Coaches	u/Cebhugolik	2019-12	59.5
+2. Free Financial Consult	u/ericgamilla	2019-07	56
+3. Should financial advisors and insurance agents be banned from commisions on the plans they sell and be forced by law to take a fiduciary role with respect to their clients?	u/fg412	2019-10	50
+4. Insurance Managers	u/EdwardRoms	2020-01	31.5
+5. I want to sell insurance because I genuinely want to help people	u/august_is_coming	2019-04	27
+6. Regarding those "financial advisors"	u/camille7688	2019-01	18.5
+7. Curious about how much commission an FA gets for every successful client.	u/gatsunada	2019-10	14
+Financial Cooperatives
+Thread	Poster	Posted	Points
+1. Looking for members	u/Genecio1992	2019-06	55.5
+2. Philippine Cooperatives	u/saul_silver2	2018-11	14.5
+3. Any good cooperative suggestion?	u/monggi001	2020-01	13.5
+4. How safe are COOP investments?	u/artrush_	2019-07	8.5
+Financial Crisis
+Thread	Poster	Posted	Points
+1. Global Financial Crisis 2008	u/jggp1094	2019-11	19
+Fiscal Policy
+Thread	Poster	Posted	Points
+1. House approves passive income tax reform bill	u/ratmysterio	2019-09	32.5
+2. The Philippines should be securing the future with a sovereign wealth fund	u/xxi4mysprog	2019-06	11.5
+Foreclosed Property
+Thread	Poster	Posted	Points
+1. Occupied homes in pagibig	u/BOT_CLIFFE	2019-09	26
+2. Bank Foreclosed Property Question	u/sh1nryuu	2019-12	24
+3. Pag-IBIG Acquired Assets	u/alitai12	2019-08	13.5
+Franchising
+Thread	Poster	Posted	Points
+1. Franchisee Nightmares and Successes	u/Kid_of_Limits	2019-09	28
+2. Thoughts on franchising?	u/jwick0007	2019-10	22.5
+3. Franchise vs. MLM Simplified	u/technowar	2019-04	19.5
+4. AICE Singaporean Ice Cream Business	u/jobbybells	2019-11	19.5
+5. Do i go for Food Cart Franchise for 300k?	u/blackchoobi	2019-08	17
+6. Any PCSO lotto outlet business owners here?	u/gotninjaskills	2019-05	15
+7. Are foodcourt stalls a good idea?	u/meowsiepoo	2020-01	14
+8. Baliwag or Andok's franchise?	u/delseyjones	2019-01	13.5
+9. Anyone here na may parents na victim ng networking?	u/areuoke	2019-05	12.5
+10. How hard is it to franchise Ministop?	u/rootbeer100	2019-07	10
+11. How profitable are franchised stores like Turks, Sam's Everything, Farro Cafe, etc.?	u/cyrilbenson47	2018-07	9
+12. Franchising Journey	u/flowfilter	2019-03	9
+13. Piso Wifi Reviews	u/solidad29	2019-02	7.5
+Fraud
+Thread	Poster	Posted	Points
+1. I got scammed :(	u/FenrirLykaios	2019-03	57
+2. Check your credit card transactions regularly	u/hungrymillennial	2019-07	40
+3. BEWARE: BDO hacking incident	u/serpyman002	2020-01	29
+4. Scams you encountered	u/ursurname	2019-12	28.5
+5. Prestige Gaming - SCAM alert	u/wowna	2019-09	23.5
+6. GCASH TWITTER SCAMS	u/xxxbrendaxxx	2020-01	23.5
+7. Anyone who was approached to invest in TOGL / Toga Limited / Yippi? This is my experience. BE WARNED.	u/bullsheets_	2019-10	22
+8. GCash covering up to P100K in case of fraud	u/tagongpangalan	2019-09	20
+9. PSA: Coins.ph phishing scam	u/dgxxiii	2020-01	18.5
+10. Just a psa regarding stock ownership	u/KittyDomoNacionales	2020-02	13
+11. How To Spot A Real Estate Scam In the Philippines	[deleted]	2019-06	11.5
+12. RCBC manager guilty of money laundering	u/Sodium_Brain	2019-02	9.5
+Freelancing
+Thread	Poster	Posted	Points
+1. This whoring business.	u/throwawayparacool	2019-02	43
+2. Familiar with YouGov Ph?	u/pollex4	2019-07	18
+3. Full Time Job to Freelance	u/rhainepoh	2019-11	14
+4. Online Jobs that you can recommend to a Freshman College Student?	u/zdc21	2019-07	11.5
+5. Is Remotasks legit?	u/lizette007	2020-01	9
+Frugal Mindset
+Thread	Poster	Posted	Points
+1. How to live a "Contented" life	u/MysteriousRobyn	2018-10	28
+2. Living a Minimalist Lifestyle, How?	u/MysteriousRobyn	2018-10	25.5
+Fundamental Analysis
+Thread	Poster	Posted	Points
+1. Seems like people are panic selling	u/SovArya	2020-02	42
+2. MPI- Value trade	u/RST128	2019-12	27.5
+3. Discussion Thread: Companies with Largest Discount due to COVID-19	u/justicepainful	2020-02	23.5
+4. Very good summary of a rational approach to stock selection.	u/BTcapital12	2019-01	12
+5. Who else here holding a high dividend yield stocks for at least one (1) year? Transferring to a high growth stocks a better idea?	u/Trueavengers	2019-07	9.5
+G
+Gambling
+Thread	Poster	Posted	Points
+1. GREED IS NOT GOOD	u/noobcryptotraderguy	2019-07	17
+GDP
+Thread	Poster	Posted	Points
+1. How Much More Can The Philippine Economy Endure From Rodrigo Duterte?	u/restfulsoftmachine	2020-02	45
+2. PH annual economic growth recovers at 6.2%	[deleted]	2019-11	14.5
+3. UN sees Philippine economy to grow 6.5% in 2019	u/Sodium_Brain	2019-02	9.5
+Growth Stocks
+Thread	Poster	Posted	Points
+1. Who else here holding a high dividend yield stocks for at least one (1) year? Transferring to a high growth stocks a better idea?	u/Trueavengers	2019-07	9.5
+H
+HMO
+Thread	Poster	Posted	Points
+1. Undeserved Rant: When Philhealth and HMO fail	[deleted]	2019-10	40
+2. New Philhealth Contributions. Ouch!	u/Alcohollick	2019-12	40
+3. Hey guys, for those supporting their aging parent, what have you guys in place to ensure that their health services are covered even after they reach 60? I got my mom (52) insured but the health services is only until age 60. I want to know how I can ensure she still has health services after 60.	[deleted]	2019-11	25
+4. Best Bang for the Buck HMO for parents	u/andradajimcarlo	2019-07	15.5
+5. How does your current health care plan/health fund look like?	u/beapaulene	2019-04	10.5
+Home Financing
+Thread	Poster	Posted	Points
+1. Should I continue with my condo?	u/EmptySport	2019-03	29
+2. What is the best way to save when buying / building a house and lot	u/cfolivay	2019-11	23.5
+3. Need Insights: Should I get a pre-selling condo or a house/lot?	u/heckingfloof	2020-01	22
+4. Moving Out / Buying Own House	u/BulbulitoBayagbag	2019-05	21.5
+5. Owning a condo	u/fleur30	2019-06	20.5
+6. Saving for a condo - where to put the money?	u/napejuice	2019-12	20.5
+7. [HELP] Need your advice regarding our condo unit	u/tampalasan	2018-06	20
+8. Scared to get a condo and housing loans. Tips?	u/twoworldman	2019-02	10
+9. Okay ba ang rent to own condo VS just renting it VS buying one VS pre-selling offers. Manila location. Studio type	u/pilosopotacio	2019-05	8.5
+Home Ownership
+Thread	Poster	Posted	Points
+1. Rethinking the way one can own a house (or any other thing)	u/ninja4lyf	2019-07	45.5
+2. Own a property before 30	u/arthur_marshton	2019-08	37.5
+3. [23Y/O] Saving Up To Buy A House In CASH. Need your input.	u/Elpizo-	2019-05	35.5
+4. Should I continue with my condo?	u/EmptySport	2019-03	29
+5. Moving Out / Buying Own House	u/BulbulitoBayagbag	2019-05	21.5
+6. Owning a condo	u/fleur30	2019-06	20.5
+7. [HELP] Need your advice regarding our condo unit	u/tampalasan	2018-06	20
+8. Hypothetical Condo-Buying Scenario: Any advice on funding the balance 80% after DP?	u/napejuice	2019-05	15
+9. Rent or own house	u/LouiseGoesLane	2019-06	15
+10. how to get good housing	u/nugupotato	2019-10	13.5
+11. Questions/Checklist When Buying Property	u/arieszx	2019-06	13
+12. Scared to get a condo and housing loans. Tips?	u/twoworldman	2019-02	10
+13. Newbie here. Housing options for single employee	u/Dragon---	2019-07	10
+14. Okay ba ang rent to own condo VS just renting it VS buying one VS pre-selling offers. Manila location. Studio type	u/pilosopotacio	2019-05	8.5
+Housing Bubble
+Thread	Poster	Posted	Points
+1. Condo bubble potentially incoming	u/allisrightwithdworld	2018-07	23
+2. The condo bubble	u/Kontaminado	2019-06	16
+3. Will real estate prices ever fall?	u/filipino13	2019-07	13
+I
+Income Class
+Thread	Poster	Posted	Points
+1. What's your Wealth Number? Mine's at 3...but you have to admit that gap between rich and poor is getting bigger :(	u/goodgirltoomuch	2020-01	26
+2. TIL that you are considered poor only if your monthly salary is less than P 9520 and rich if you earn at least P 190,400 per month. Source Philippine Institute for Development Studies	u/TwentyMegAndThankful	2019-06	22.5
+3. Philippines in the 2019 Credit Suisse Wealth Report	[deleted]	2019-10	22
+4. Do we have official demarcations for income class brackets in the PH? If not, what would you consider (in terms of annual net income): Poor? Lower middle? Middle? Upper middle? Rich?	u/SkoivanSchiem	2019-04	10
+Index Funds
+Thread	Poster	Posted	Points
+1. Guide to Philippine index funds	u/Uncle_Iroh107	2018-07	65
+2. Why the popularity of Index Funds in the Philippines?	u/albertfj1114	2018-05	33
+3. Do equity funds really beat the index? (A performance comparison of equity index funds vs equity non-index funds vs the PSEi)	u/speqter	2019-09	33
+4. Differences between ETF and Index mutual fund. Credit to Susan Daley of PWL Investing.	u/Master1989871	2019-12	25.5
+5. Wilson Sy's strategy and index funds	u/dgxxiii	2019-10	15
+6. Anyone here who invests in VTSAX or other US-based low cost index fund while living in the Philippines?	u/parasuko	2019-06	13.5
+7. Investment advice (equity index fund/mutual funds)	u/monmon5ter	2019-06	13
+8. Index Investing Returns Distribution For SP500 and PSEi for both short term and long term durations (also looking for help to expand this more)	u/jfgallego2269	2018-07	11.5
+9. Mutual Fund: BPI Philippine Index Fund	[deleted]	2019-04	11
+10. How to invest in the Vanguard or Schwab S&P 500 Index Fund from the PH?	u/Miata-Man	2018-07	10
+11. Index Funds (Not a clickbait, worth watching)	[deleted]	2019-11	8.5
+Inflation
+Thread	Poster	Posted	Points
+1. Inflation surges to 6.4%, what to do next?	u/fresh_french	2018-09	27
+2. Made a Philippine Inflation Calculator. Hope you guys find it useful!	u/periva	2018-09	20
+3. Usapang salary increase and inflation	u/shining_metapod	2019-04	20
+4. September 2019 inflation is out!	[deleted]	2019-09	17
+5. November 2019 Inflation Report	[deleted]	2019-11	13
+6. PSA: Inflation further eased to 3.3% in March	u/speqter	2019-05	11
+7. 5 Ways on How to Protect Yourself from Inflation	u/juanvestor	2018-10	10
+8. Inflation hits new over 9-year high of 6.7% in September on elevated food prices	u/BloodSweatTears18M	2018-10	6.5
+Initial Public Offering (IPO)
+Thread	Poster	Posted	Points
+1. Beginner's guide to the PSE EASy registration process, and general info/tips about the program for investing in IPOs	u/DuncnIdahosBandurria	2019-08	30.5
+2. IPO Season 2019 (PART ONE): A primer on the first two IPOs, Axelum and AllHome, and getting comfortable with IPO due diligence.	u/DuncnIdahosBandurria	2019-09	25
+3. FRUITAS IPO	u/rockdgoat	2019-11	22.5
+4. PSE OKS P1.2-B Fruitas IPO	u/dgxxiii	2019-10	18
+5. IPO Season 2019 (PART TWO): A primer on the second two IPOs, Cal-Comp and Fruitas.	u/DuncnIdahosBandurria	2019-09	15.5
+6. IPO ALERT: MerryMart seeks approval for P1.6-billion Q2 IPO (Jan 29)	u/DuncnIdahosBandurria	2020-01	13
+7. ELI5: IPOs	u/dayoffniinday	2019-09	11
+8. Kepwealth Property Phils Inc (KPPI) IPO	u/atleastfoot	2019-07	9
+Insider Trading
+Thread	Poster	Posted	Points
+1. A long/short history of why the Villars are the biggest Stock Market conmen in Philippine History	u/tagongpangalan	2018-11	15.5
+Insurance Coverage
+Thread	Poster	Posted	Points
+1. Insurance coverage	[deleted]	2019-05	11
+Insurtech
+Thread	Poster	Posted	Points
+1. Singlife Philippines to launch insurance products without agents (digital) in early 2020	u/WormwoodRiver1211	2020-02	46.5
+Interest
+Thread	Poster	Posted	Points
+1. Is my calculation on Security Bank's Money Builder Savings Account correct?	u/masagana96	2018-12	13.5
+International Investing
+Thread	Poster	Posted	Points
+1. How to Open a TD Ameritrade Account	u/Uncle_Iroh107	2019-04	15
+2. TD Ameritrade Account (Account Opening)	u/unionizedproton	2019-10	15
+3. Best way to invest in international stocks from the Philippines?	u/jawiMmm	2019-07	14
+4. Anyone here who invests in VTSAX or other US-based low cost index fund while living in the Philippines?	u/parasuko	2019-06	13.5
+5. TD Ameritrade	u/kurazetsumei	2020-02	13
+6. How to invest in the Vanguard or Schwab S&P 500 Index Fund from the PH?	u/Miata-Man	2018-07	10
+7. how do i invest in other country stock exchanges	u/MysteriousRobyn	2018-10	10
+International Trade
+Thread	Poster	Posted	Points
+1. Curious question about the ongoing trade war	u/lea404	2019-08	21
+2. Higher fuel prices seen after attack in Saudi	[deleted]	2019-09	14.5
+3. Peso hits 53 per dollar: how does it affect us? Any advise for stock market investors?	u/juginggingging	2018-06	10
+4. China Debt Trap: How would the China Deal affect the market?	u/thetravelpenguin	2019-04	9
+Internet & Mobile Banking
+Thread	Poster	Posted	Points
+1. Cimb now at 4% with no maintaining balance.	u/YesKiddo	2020-01	98
+2. A Quick Guide On How Much You'd Earn From ING/CIMB (100k)	u/syf3r	2020-01	67.5
+3. BPI's "Transfer to another bank" feature is now available	u/xxi4mysprog	2019-07	52.5
+4. Cimb bank 5% Interest	u/kirky231	2020-01	52
+5. My dream is for SecurityBank and Unionbank to merge. Imagine the innovation horse power of that.	u/titojhacks	2019-11	51
+6. Is CIMB safe?	u/chrisphoenix08	2020-01	39
+7. CIMB Save P500, Get P100 Promo and January Interest	u/chrisphoenix08	2020-01	38.5
+8. BPI FEE!!!!!	u/ALTITUDE_JP	2019-06	38
+9. ING booth @ BGC High Street near The Spa. Get free SB GCs worth P300 and bluetooth speaker when you create an ING account and fund it w/P1000. Refer 10 people get another speaker. Until Jan 29.	u/hungrymillennial	2020-01	37.5
+10. Been putting our savings in BPI FSB's Save-up for the free insurance. Did a quick comparison and I guess it's time to consider going with CIMB (not considering non-monetary aspects like least effort of status quo, customer service, etc). Disclosure: not affiliated with CIMB, but Philam FA	u/projectbear25	2020-02	35
+11. ING Philippines at promo rate of 4% p.a. starting August	u/GamePlan101	2019-07	34.5
+12. Why do CIMB, ING, and other digital banks have higher interest rates than traditional banks?	u/filipino13	2020-01	33.5
+13. ING bank 4% interest rate for savings accounts	u/trpzip	2019-07	29.5
+14. [MB] CIMB Bank PH took just 10 months to get 1 million subscribers, er... "members": should BPI and BDO be scared? (link in description)	u/DuncnIdahosBandurria	2019-10	29.5
+15. CIMB - Gsave or direct	u/_luna21	2019-11	28
+16. legit cimb promo 'save500,get100free'	u/positivenina	2020-01	28
+17. CIMB matches ING's 4% p.a.	u/GamePlan101	2019-11	25
+18. I was wondering why my cimb to bpi via pesonet transfer did not go through yesterday. After much digging, this is the only info I found online and it was only published on UCPB's site (afaik). Thought of sharing it here in case you did pesonet transfer anytime from last Friday to yesterday	u/ohgirltsss	2020-01	25
+19. What are your thoughts on CIMB?	u/_likha	2019-02	24
+20. ING's 4% interest rate promo extended until March 31, 2020	u/rkscapul	2020-01	23.5
+21. Digital Banking	u/damsheets	2019-10	22.5
+22. CIMB - DragonPay / BPI	u/bckpfeifengesicht	2020-01	21.5
+23. CIMB vs ING which is better?	u/jaasssyyyy	2019-09	20.5
+24. Another Digital Bank to Disrupt the Banking Industry	u/kenjhim	2020-01	19.5
+25. How much are you willing to put into your digital banks?	u/antrology	2020-01	19
+26. Honest, unfortunate mistakes in digital banking	u/greatsantol	2019-08	18.5
+27. Compare ING vs. CIMB customer support.	u/lenmark04	2019-11	18.5
+28. CIMB and ING	u/_Leo___	2019-07	17.5
+29. BPI: scheduled outage on Oct 19 (Saturday)	u/dgxxiii	2019-10	17.5
+30. Thoughts on ING bank (online)	u/komi20678	2019-06	15.5
+31. Is it better to store my fund for a short term goal in GSave or in a MoneyMarket Fund?	u/MoneyFil7	2019-07	15
+32. ING's extended 4% p.a. interest rate	u/Trixion	2019-10	15
+33. Is CIMB Secure?	u/Louie-vzs	2020-02	14
+34. CIMB Bank's Worth Saving More is back	u/GamePlan101	2019-12	12.5
+35. CIMB email and chat support is disappointing.	u/ducklingboi	2019-11	11.5
+36. BDO Mobile Banking	u/dadiangas	2019-09	11
+37. Electronic fund transfer available in banks by end-November — BSP	u/bluebalut	2018-10	10.5
+38. Digital Banking (GSave, ING)	[deleted]	2020-02	10
+39. ING Latest Promo Rebate	u/Greeeeyyyss	2019-11	7.5
+40. ING'S TRANSFER FEE REBATE PROMO EXTENDED UNTIL MARCH 31, 2020	u/Pinaslakan	2020-01	7.5
+Investment Objectives
+Thread	Poster	Posted	Points
+1. Goals!	u/Sodium_Brain	2019-05	46.5
+2. Sharing the thought process and worksheet that helped me reach my goals last year and enabled me to start investing this year	[deleted]	2019-05	42
+3. PH Invest 100 - Rationale For Investing	u/treeperfume	2014-07	6
+Investment Property
+Thread	Poster	Posted	Points
+1. Curious about condo investments experience	u/jmnativ	2019-09	53.5
+2. Investing in a house	u/IWantMyYandere	2019-07	27
+3. Planning to Buy a Foreclosed Condo in Manila. Need Advice!	u/Khuizan	2019-03	26
+4. Real Estate vs. Stock Market for 20-somethings	u/jannah26	2019-02	23
+5. 24 y/o thinking of buying a condo to rent out 11 out of 12 months. Advice please!	u/Jeegabytes	2019-06	22.5
+6. Stock market o lupa?	u/KahitMunti	2018-07	22
+7. condo owners of r/phinvest, musta ang renting business through airbnb?	u/aaaajamie	2019-04	18
+8. Buying Lots	u/LiveFreeYay	2018-09	17.5
+9. Whats keeping you from buying a pre-selling condo?	u/nicoleang23	2020-02	17
+10. Things to consider in buying a Beach Lot	u/emmaroth11	2020-01	16
+11. Should I buy cheap land in the province?	u/t_four_thirty	2019-01	15
+12. Is a pre-selling condo an investment or a liability?	[deleted]	2019-11	14.5
+13. Apartment business	u/vlan21	2019-07	14
+14. Buying a Condo Unit	u/zanezki	2019-12	13.5
+15. Sell / Demolish-Rebuild? Need Your Thoughts	u/_nessaprime	2019-08	12.5
+16. How does one get started with real estate?	u/codepanther	2019-12	11.5
+17. How much does it cost to build an apartment complex/an apartment building in the philippines? 6 units (doors) - Example included	u/gotaquestion456	2019-01	11
+18. A little something to think about (Found this Pinoy Exchange Post way back 2004)	[deleted]	2019-10	11
+19. Any AirBnb investors or the like here?	u/AirBnbManagerGuy	2019-10	9.5
+20. Confused on Offered Condominium	u/ztest12	2019-12	9.5
+21. Best real estate website?	u/whiskey_smoke	2019-06	8
+Investment Returns
+Thread	Poster	Posted	Points
+1. Pag-IBIG MP2 Scenarios - Monthly, Annual, and Lump Sum Contributions	u/NostalgiaWitch	2019-11	71
+2. Iiyak na laaaaanggggg... Iiyak na laaaaaahaaaahaaangggg... ≡ƒÄ╡≡ƒÄ╢	u/mio28	2020-02	54
+3. How NOT to invest in Real Estate, part 2	u/renrengabas	2019-08	53
+4. Ok ba na portfolio return yung 26% in the span of 7 months?	u/Magnicello	2019-11	51.5
+5. "How much does investing frequency matter?" - A little data experiment to compare monthly, quarterly and yearly investing on PSEi	u/Yamboist	2019-08	37
+6. Investment 10 Years Challenge 2009-2019	u/MysteriousRobyn	2019-02	32
+7. PAG-IBIG MP2 TRACKER / CALCULATOR	u/topermcell	2019-11	24
+8. Downhill, hawak-kamay	u/mio28	2020-02	21
+9. Stock Market Instability	u/mio28	2020-01	17
+10. www.valueinvestingphilippines.com Performance	u/jhnkvn	2019-06	15
+11. How red are you this January?	u/lenmark04	2020-01	13
+12. List of Mutual Funds, Unit Invest Trust Funds and PSE Indexes along with returns per year and compound returns, updated regularly	u/treeperfume	2014-07	10.5
+13. Visualizing the returns of different fund types	u/treeperfume	2017-07	6.5
+Investment-Linked Insurance (VUL)
+Thread	Poster	Posted	Points
+1. What VUL really is	u/beapaulene	2019-03	116
+2. Life Insurance, Variable Univeral Life Insurance as Investments.	u/iPash	2018-06	100
+3. VUL vs BTID vs Self-insurance Comparison	u/speqter	2019-07	80.5
+4. Me after getting a VUL and then finding this sub	u/gojuris	2018-10	70.5
+5. VUL Thoughts and Appreciation.	u/Cebhugolik	2019-12	64.5
+6. “Never mix insurance with investment”	u/beapaulene	2019-07	58.5
+7. Isipin mo family mo. Usap tayo, sis.	u/BawlSyet	2020-01	51
+8. Cancelling +3years VUL?	u/surfacage	2019-02	48.5
+9. help me understand VUL (need experienced policy holders/advisor)	u/stephencarry26	2019-07	47.5
+10. VULs... Not saying VULs are pure evil, but this is why so many people are lured into getting one with very unrealistic expectations.	u/angatpinoy	2020-01	47.5
+11. Actuarial Consultant here! Shoot your questions about insurance!	u/darzXD	2018-10	44.5
+12. WHAT WILL MAKE YOU AVAIL VUL?	[deleted]	2019-11	41.5
+13. Done paying for my VUL but the admin charge is killing me. What to do?	u/sharksfin	2020-02	41
+14. Why is everyone hating on VUL? What's the promise that FCs tell you that you feel are deceptive?	u/ejtumz	2020-02	38.5
+15. [FYI] Terminated my VUL. Here's my experience.	u/betterlatethannevur	2019-11	38
+16. Just want to rant about withdrawing VUL policy	u/darkdebonair	2020-02	38
+17. A student asks about buying a VUL -- Philstar.com	u/FinanceForever	2019-08	32.5
+18. Bought a VUL without doing much research, need advise.	u/Dibolero	2019-08	27.5
+19. VUL Cancellation & Alternative Investments	u/gatsbyblottingsheets	2020-01	25.5
+20. VUL Decision	u/arbizi	2018-10	25
+21. Is Life Insurance An Investment?	u/melonsandlemons	2019-07	23
+22. VUL after 20 years?	u/peanutbutpeanut	2020-02	23
+23. Crossover point between keeping a VUL and pulling out	u/mambad	2019-03	22
+24. Found this subreddit recently, now cancelling my VUL and wanting to invest the right way	u/retristance	2020-02	22
+25. Has anyone EARNED from VUL?	u/MentallyStimulating	2019-08	20
+26. A concrete example of why BTID is better than VUL	u/vodkaxsprite	2020-01	19.5
+27. meanwhile, convo with a bank employee earlier :)	[deleted]	2018-11	18.5
+28. On the fence about trminating my VUL.	u/FutureAside	2019-08	18
+29. My new generic answer to any inquiry on whether VULs are any good	u/jfgallego2269	2018-03	16.5
+30. Advise for a 30 year old newbie who's wife is about to get a VUL.	u/kuyapopoy	2019-08	16.5
+31. PSA: Do not fall for the insurance agents selling VULs after the Maldives honeymooners incident, buy travel insurance instead	u/clichetoris	2019-02	16
+32. VUL - 1year na akong hindi nag-huhulog.	u/thenoobmarathoner	2019-11	16
+33. Bakit nga ba daw kelangan ihiwalay? My friend, an insurance sales agent, shared on her page	u/babybeewanderlust	2019-12	15
+34. Two insurance, 1 inactive FA, I'M SO LOST	u/nhilban	2020-02	15
+35. Planning to Fully withdraw my VUL	u/roms05	2020-01	14.5
+36. Return in VUL	u/VictorMagtanggoal	2019-07	13
+37. Cancellation of my BPI Philam Build Life Plus, Help!	u/rina110383	2019-07	13
+38. OFW at the age of 22 na umasa sa VUL investment. Wanting to switch to UITFs.	u/FatSmok3	2018-10	12.5
+39. Pros and Cons of VUL? Is there someone here who already finished his or her paying period? (10 or 20 years)	u/tralalaben	2020-01	12
+40. Being pressured to pursue Sun Life	u/randevilran	2018-11	11
+41. Need help whether to terminate VUL	u/Lalinda_Jean	2019-08	11
+42. Need advise. Should I cancel my VUL?	u/ninja-cool	2020-01	11
+43. How much exactly is the life insurance premium when you avail VULs from companies like Pru and Sun	u/rappyboy	2018-09	9.5
+44. Question on VUL fees and investment growth	u/Yamboist	2018-09	9
+45. Converting VUL to Term Insurance	u/ptskptt	2020-01	9
+46. Hidden charges on VUL	u/fallengun	2019-03	8.5
+47. Need help understanding BPI-PHILAM Policies	u/Sanreign	2019-07	8
+48. Anyone here with experience with AXA 's Global Advantage Fund (GAF)?	u/muyapuya	2018-06	7.5
+49. Advice on what to do onwards with a VUL	u/mimi814	2019-07	7
+J
+K
+L
+Life Insurance
+Thread	Poster	Posted	Points
+1. What.	u/guywithwolftattoo	2019-12	40
+2. Best insurance option for 26yo na medyo affordable	u/RAD_heRBie	2019-09	36.5
+3. Sunlife Insurance	u/ranger_power	2020-01	23
+4. Sad naman ng reality	u/technowar	2019-04	22
+5. Is life insurance is important and why?	u/okeyoh	2020-01	22
+6. need help or guide on choosing the best(?) life insurance	u/sansaganda	2019-08	17.5
+7. Sun life Claiming	u/kaerphilly	2020-02	15
+8. AXA or Sun Life?	u/squeakylemonsss	2018-10	9.5
+9. Any Motorcycle riders here? I need suggestions for insurance.	u/majorlogic	2020-01	8.5
+Long-Term Negotiable Certificates of Deposit (LTNCD)
+Thread	Poster	Posted	Points
+1. Long Term NCD - What can you say about this?	u/pondoy104	2019-04	17.5
+2. Long Term Negotiable Certificate of Deposit (LTNCD)	u/speqter	2018-06	9.5
+Low-Income Budgeting
+Thread	Poster	Posted	Points
+1. How I can save 50% of my very low salary?	u/Tseckerd	2019-07	53.5
+2. How to maximize my Php 17,000.00 Salary	u/kaychi16	2019-05	49.5
+M
+Market Crashes
+Thread	Poster	Posted	Points
+1. Market Crash in PH (ELI5	u/myweiwei	2019-07	13
+2. Youtube search for why 2019 won't crash	u/distractedcat	2019-02	9
+Market Cycles
+Thread	Poster	Posted	Points
+1. Bear Market - guide a beginner	u/aaahchoo	2018-06	28.5
+2. The World's Worst Stock Market Is Not Cheap Enough to Buy	u/bluebalut	2018-10	15
+Market Risk
+Thread	Poster	Posted	Points
+1. This week for the PSEi (from r/wallstreetbets)	u/remoteunderpants	2018-09	9.5
+Medical/Hospitalization Insurance
+Thread	Poster	Posted	Points
+1. GoFundMe - the new self health insurance of the PH (also suggestions on critical illnesses insurance)	u/princessluna22	2019-07	26
+2. What are your thoughts about getting Sun Senior Care for ageing parents?	u/lenmark04	2019-08	18
+3. Health insurance/HMO	u/adegala021	2019-09	18
+4. Best Bang for the Buck HMO for parents	u/andradajimcarlo	2019-07	15.5
+5. Medical Insurance	u/Montrel_PH	2019-03	13
+6. Health Insurance advice for My 52-year old mother	u/lazybicolano	2019-06	13
+7. Can anyone here help a foreigner with insurance?	u/iAstonish	2020-02	12
+8. How does your current health care plan/health fund look like?	u/beapaulene	2019-04	10.5
+Mergers & Acquisitions
+Thread	Poster	Posted	Points
+1. Bida ang saya! Jollibee acquires CBTL for US$100M	u/lcsvrs	2019-07	60
+Micro, Small & Medium Enterprises (MSME)
+Thread	Poster	Posted	Points
+1. Moving to the Philippines	u/Wilmer_Prey	2020-02	47
+2. Business for 500,000php	u/Veanz101	2020-02	37
+3. What's you target business?	u/motioncitypicture	2019-09	29
+4. Non- stock/trading related: Anyone into niche market here or who has made a living out of their hobbies?	u/XXandromidasXX	2019-10	21.5
+5. BMBE business ideas. Add more of the ones you know of	u/Justingolw	2019-02	20.5
+6. Any tips on starting a business?	u/scrambledeg	2019-01	18.5
+7. Do you have Cheat sheet for starting a SME?	u/grinsken	2019-11	16.5
+8. Side Hustle As Lazada Delivery	[deleted]	2019-09	15.5
+9. Im planning to quit my job since sobrang liit ng kinikita ko at feeling ko hindi na worth it. Mom and I is planning to put up a business na lang. Any suggestions for a 100k start up capital? Were in a province pala. Medyo mahirap kasi mag isip ng pagkaka kitaan dito. Thanks	u/lostmomat28	2019-05	12.5
+10. Investing on Motorcycle for Angkas	u/justgothomee	2019-09	12.5
+11. GRAB FOOD	u/Bobbaxelrod	2019-12	12.5
+12. ASKING FOR ADVISE: STARTING A FREIGHT SERVICES BUSINESS	u/_Lucifurr	2019-04	12
+13. What would work in low income areas?	u/Yansable	2019-11	11
+14. Practical books for start-ups/small biz especially for non-biz graduates?	u/ReginaPhalange1998	2019-06	8.5
+15. Any stories or tips on becoming self-employed/business owner?	u/tampalasan	2018-07	8
+16. Parent-friendly business ideas	u/flowfilter	2018-11	8
+17. Clothing Line Startup (help!)	u/throwaway23112001	2019-08	8
+18. Shawarma rice business	u/Napcoco	2019-07	7.5
+19. Help an aspiring entrepreneur put up his own mini grocery	u/pjboy3245	2018-12	6.5
+20. Anyone in the café business?	u/beapaulene	2019-07	6
+Mobile Wallets
+Thread	Poster	Posted	Points
+1. Hopefully GCash won't surprise us with outrageous fees in the future	u/hermitina	2019-07	68.5
+2. Gsave Interest now at 4.10% ?	u/psychicPhantom	2019-12	32.5
+3. Free Credit to Cash via PayMaya + Free CC points	u/iIetthedogsout	2019-11	29.5
+4. Deducted money from GCash was not received	u/crazer26	2019-08	24
+5. What's the best app to pay my bills that will give max cashback?	u/Orbit_Key	2019-08	23.5
+6. GCash covering up to P100K in case of fraud	u/tagongpangalan	2019-09	20
+7. BDO to GCASH cash in	u/gracereprado	2019-11	19.5
+8. Gcash transaction limit	u/mapuanclem	2020-01	18.5
+9. Is Gcash save the best place to put a 500 peso deposit every month?	u/therealjpop	2019-11	15
+10. Do you think it's safe to save money on GSave?	u/ursurname	2019-11	12.5
+Monetary Policy
+Thread	Poster	Posted	Points
+1. The reality of a negative interest rate environment	[deleted]	2019-11	17
+2. Why are mortgage rates in the Phils much higher than the US? (calculation inside)	u/kevinoxy	2020-01	13
+Money Market Funds
+Thread	Poster	Posted	Points
+1. Rookie investor here please give me advice	u/dadengr07	2019-04	16
+2. Is it better to store my fund for a short term goal in GSave or in a MoneyMarket Fund?	u/MoneyFil7	2019-07	15
+Multi-Level Marketing (MLM)
+Thread	Poster	Posted	Points
+1. Help! Is FRONTROW Legit?	u/aKingLyrrad	2020-01	54
+2. Franchise vs. MLM Simplified	u/technowar	2019-04	19.5
+3. The 8 Point Test in Direct Selling	u/marcusneil	2019-07	17
+4. How do you convince someone to steer away from MLM?	u/zephyrsphere	2019-05	10
+Mutual Company
+Thread	Poster	Posted	Points
+1. Saw these while organizing my parents’ things. What are these and where do we go to check on these? My parents don’t remember what these were, only that a friend of a friend referred them to it.	u/wildgeesechase	2019-07	8.5
+Mutual Funds
+Thread	Poster	Posted	Points
+1. Top 10 Philippine mutual funds for 2019	u/pesolab	2019-12	29
+2. ATRAM Funds. Thoughts?	u/ryan2996	2020-01	27
+3. Basagan ng Trip with Leloy Claudio: Why finance experts should challenge mutual funds in PH	u/jmnativ	2019-10	25
+4. UITF OR MF? Which is better	u/mjiane	2019-08	23.5
+5. Never goin broke!!	u/bryayayay	2019-04	22
+6. Mutual Funds 101 (from ICRCP Study Guide, By SEC)	u/beapaulene	2019-05	16.5
+7. Thankful for finding this sub! It's a start of being financially woke. Need help on my first investment	u/r_nb	2018-12	16
+8. College Student (Really) starts to Invest	u/cmyeung	2020-01	15
+9. Just invested in BPI MF and UITF	u/gabo021	2018-07	14.5
+10. Investment advice (equity index fund/mutual funds)	u/monmon5ter	2019-06	13
+11. Mutual Fund: BPI Philippine Index Fund	[deleted]	2019-04	11
+N
+Net Income
+Thread	Poster	Posted	Points
+1. Businessmen of this subreddit i just want to know if anyone here is earning a million pesos or more a month. And what is your business?	u/ddontjudgeme	2019-05	21.5
+Net Worth
+Thread	Poster	Posted	Points
+1. Reached my first 1M, now what?	u/kabalintunaan	2019-05	121
+2. Basic Tips In Increasing Your Net Worth by S.A. - me	u/SovArya	2019-06	32
+Networking
+Thread	Poster	Posted	Points
+1. Anyone here na may parents na victim ng networking?	u/areuoke	2019-05	12.5
+O
+Online Selling
+Thread	Poster	Posted	Points
+1. What makes an online thrift shop attractive to you?	u/Wapapaww	2020-02	34.5
+2. Anyone have experience selling on online platforms such as Shopee or Lazada?	u/kingdimitris	2019-06	23
+3. Planning to sell on Shopee... Any tips to gain customers?	u/labanos12	2019-01	19
+4. Lazada/shopee merchants, is it lucarative selling online? How did you start your business?	u/taopk23	2019-07	13.5
+5. Anyone here selling in lazada and sourcing from alibaba?	u/LAJM99	2019-04	11
+P
+Paper Trade
+Thread	Poster	Posted	Points
+1. Please asses my investing skills	u/sowsz	2019-03	16.5
+Passive Investing
+Thread	Poster	Posted	Points
+1. I bought this shirt on impulse...	u/jhnkvn	2019-06	47.5
+2. Seems to fit well here..	u/sunxryne	2019-06	25.5
+Pension Plan
+Thread	Poster	Posted	Points
+1. What are the various steps you can do ensure that the company you work for honors your tenure and your retirement benefits are not put in jeopardy?	u/SkoivanSchiem	2019-07	11
+Personal Accident Insurance
+Thread	Poster	Posted	Points
+1. Thoughts on BPI ongoing promo of insurance for 14.99 or 365 pesos?	u/ellisanya	2019-12	17
+Personal Finance Apps
+Thread	Poster	Posted	Points
+1. Can Anyone Throw me a Bone in How to Track Expenses?	u/CATalyst_MALEViOLENT	2018-05	42.5
+2. Personal Finance - Money Manager	u/latte-and-cappuccino	2020-01	36
+3. What app are you using to track your expenses, income, savings?	u/coffeeb0y	2019-04	31.5
+4. What's the best app for this?	u/ratox__	2019-06	17
+5. PSA : Google sheets has a budget template where you can track your expenses and income	u/baddriversaysthe5yo	2018-11	13
+Personal Loans
+Thread	Poster	Posted	Points
+1. PSA: If my calculations are correct, Cebu Pacific's new "Pay with Cashalo" charges an obscene interest rate that takes preys on the poor! You are literally better off using almost any other way of paying for plane tickets.	u/DuncnIdahosBandurria	2019-08	19
+2. Needing a real quick 200k to pay off a hospital bill. Which bank should I go to?	u/isjeeeeee	2020-01	18.5
+3. BPI housing loan to buy an old condo	u/humpydays	2019-08	12.5
+4. Auto loan questions.	u/boomythewitcher	2019-10	11
+Ponzi Schemes
+Thread	Poster	Posted	Points
+1. Organico is a Ponzi Scheme	u/Mercador42	2019-02	82.5
+2. Legit check: Organico Agribusiness Ventures	u/11redlines	2018-12	40
+3. SEC warns public against investing in Broilerpreneur, ADA Farm, Ever Arm	u/lopezjessy	2019-07	30.5
+4. Rant about multi level marketing	u/phschutstaffel	2019-06	28.5
+5. [Merkado Barkada] Kapa receives a "blessing" (shutdown order) from the government	u/DuncnIdahosBandurria	2019-07	22
+6. SEC warns public against 22 ‘investment scams’	u/lopezjessy	2019-07	18
+7. Avoid investing in Rigen Marketing, SEC tells public	u/xxi4mysprog	2019-06	15
+8. The Court of Appeals has issued a freeze order on money and properties linked to the Kapa-Community Ministry International, Inc. as authorities shut down the illegal investment scheme.	u/ubermensch02	2019-07	12.5
+9. Duterte orders crackdown on get-rich-quick scams	u/lopezjessy	2019-07	10.5
+Preferred Shares
+Thread	Poster	Posted	Points
+1. PSA: Century Properties Group, Inc. Perpetual Preferred Shares (CPGP)	u/throwaway071697	2019-12	14.5
+2. Petron readies P20-B preferred share offer (6.8002 percent to 7.1502 percent per annum for Series 3A and 7.0737 percent and 7.4237 percent per annum for Series 3B) : Philstar.com	u/baddriversaysthe5yo	2019-05	12.5
+3. Petron preferred shares	u/undergrade21	2019-06	12
+4. AYALA CORPORATION RE-ISSUANCE OF CLASS "B" PERPETUAL PREFERRED SHARES (APB2R)	u/roslolian	2019-11	11.5
+Premium Banking
+Thread	Poster	Posted	Points
+1. Citibank - High Rate Time Deposit & Cash Rewards	u/resumehelp1019	2019-10	18
+2. Anyone with experience on priority banking in the Philippines?	u/valengr	2019-12	17
+Pretax Contributions
+Thread	Poster	Posted	Points
+1. How retirement looks like for a regular Pinoy professional.	u/Uncle_Iroh107	2019-04	37
+2. How to maximize benefits of GSIS, SSS, PAGIBIG contributions?	u/dens1990	2019-10	36.5
+3. SSS Contribution/ Pension	u/cgranad	2019-11	31.5
+4. SSS Contributions	u/chinablue20	2020-02	18
+5. SSS contribution. Tuloy o Tigil?	u/HanamichiSakurag1	2020-01	15.5
+6. SSS Contribution/Investment	u/bluebalut	2018-11	15
+7. On taxes, SSS, PhilHealth, and Pag-Ibig	u/chlgrdreams	2019-06	12.5
+8. No tax in my first 4 months of employment	u/clericsniper	2019-07	12
+9. Is it worth it to continue contributing to SSS?	u/bannerman82	2018-12	8.5
+Private Equity
+Thread	Poster	Posted	Points
+1. Hospital Shares, Where to buy them?	u/Kontaminado	2019-08	20
+2. Hospital Equity Returns	u/libugito	2020-01	9
+Prize Bonds
+Thread	Poster	Posted	Points
+1. Invest P500, win P1M. Gov't to offer 'prize' bonds good for 'aguinaldo,' too	u/redditFury	2019-10	19
+Property Financing
+Thread	Poster	Posted	Points
+1. How NOT to invest in Real Estate, part 1	u/renrengabas	2019-07	78.5
+2. How NOT to invest in Real Estate, part 3	u/renrengabas	2019-09	24
+3. Question about purchasing a lot	u/skye_sago	2019-10	15.5
+4. PH - Housing Bank Mortage Enquiry	u/dohyeh	2019-10	10.5
+Pyramid Schemes
+Thread	Poster	Posted	Points
+1. So true	u/technowar	2019-10	43
+2. TedEd : How to spot a pyramid scheme	u/bannerman82	2019-04	18
+Q
+R
+Real Estate Development
+Thread	Poster	Posted	Points
+1. Real Estate Prediction 2019	u/jeyps1031	2019-10	20.5
+2. Buying Lots	u/LiveFreeYay	2018-09	17.5
+3. Should I buy cheap land in the province?	u/t_four_thirty	2019-01	15
+4. Looking for house and lot development	u/chochochocho12345	2020-02	11.5
+Real Estate Investment Trust (REIT)
+Thread	Poster	Posted	Points
+1. PSE to introduce short-selling, new indices, and REITs next year	u/dgxxiii	2019-12	16
+2. Thoughts on ALI $300M REIT	u/PedroNgNorte	2019-08	12
+3. Gov't relaunches REIT program for property investments	u/it2051229	2020-01	11
+4. What are your opinion(s) about the 1st Real Estate Investment Trust in the Philippines? [More info about REIT in the comments]	u/jonatgb25	2019-05	10.5
+Recession
+Thread	Poster	Posted	Points
+1. How will the 2019 recession be different from 10 years ago? And how will it affect the Philippines?	u/shivabreakstheworld	2019-01	15
+Renting
+Thread	Poster	Posted	Points
+1. Rethinking the way one can own a house (or any other thing)	u/ninja4lyf	2019-07	45.5
+2. Rent or own house	u/LouiseGoesLane	2019-06	15
+Retail Treasury Bonds (RTB)
+Thread	Poster	Posted	Points
+1. Philippine Government to offer Retail Treasury Bonds from May 30 - June 8, 2018 - 4.75% to 5% per annum	u/EfficientNinja	2018-05	24
+2. Found this at BDO website. Any thoughts about investing in RTB?	u/tyler_swift_	2019-03	20
+Retirement
+Thread	Poster	Posted	Points
+1. Dave Ramsey's 7 Baby Steps	u/abisaya2	2019-03	64
+2. F.I.R.E. Starting Points	u/ninja4lyf	2019-07	63
+3. FIRE - Financial Independence, Retire Early movement	u/hououinkyouma1008	2019-03	44
+4. To those who are planning to achieve FI/RE, what's your story?	u/argonautrock	2018-05	29
+5. How to live off from dividends?	u/linux_n00by	2019-01	28.5
+6. Why most Filipinos can’t retire yet at 60	u/Sodium_Brain	2019-05	23
+7. Most Filipinos Don't Save Enough for Retirement (xpost from r/Philippines)	[deleted]	2019-05	21
+8. Anyone here achieved FIRE and what keeps you excited everyday?	u/kungfupandak	2019-01	18
+9. Finance Queries	u/redbucketmorra	2019-07	18
+10. Is it possible to LeanFIRE in the Philippines?	u/grrrrlreddit	2018-10	17
+11. What are the various steps you can do ensure that the company you work for honors your tenure and your retirement benefits are not put in jeopardy?	u/SkoivanSchiem	2019-07	11
+Robo-Advisors
+Thread	Poster	Posted	Points
+1. Any Pinoys who have tried StashAway yet?	u/hermitina	2019-08	10
+S
+Salaries & Wages
+Thread	Poster	Posted	Points
+1. My base pay all those years.	u/iamlordbaelish	2020-02	91
+2. 13th Month Pay 2019	u/megronix	2019-10	68.5
+3. Career change in Philippines	u/tensecondstogo	2019-08	59
+4. How much is your monthly salary?	u/Montrel_PH	2019-06	56
+5. Since someone made a discussion about salaries, may I ask if how much is your starting salary after graduation and how much (percentage is accepted) was increased after one year?	u/kuzmaaa0	2019-06	46.5
+6. Toilet Thoughts: You can create the illusion of giving yourself a 13th month pay.	[deleted]	2019-12	34
+7. CAREER SHIFT ADVICE	u/hooman999	2019-08	26
+8. Jumping ship - need tips	u/tyy0007	2020-02	20.5
+9. Usapang salary increase and inflation	u/shining_metapod	2019-04	20
+10. Maid/Kasambahay/Yaya	u/abogadongkalye	2019-12	19.5
+11. Have you ever tried asking for a raise?	u/siomaingohiong	2019-12	16.5
+12. First Pay Survey conducted by Liyab	u/ursurname	2020-01	11
+Sandwich Generation
+Thread	Poster	Posted	Points
+1. Ginhawa ng pamilya	u/nugupotato	2019-09	22.5
+Saving
+Thread	Poster	Posted	Points
+1. I did it! I just started saving!	u/xavier22197	2019-09	60.5
+2. Help A Fresh Grad Out!	u/dryldennise711	2019-12	17.5
+Self-insurance
+Thread	Poster	Posted	Points
+1. VUL vs BTID vs Self-insurance Comparison	u/speqter	2019-07	80.5
+2. GoFundMe - the new self health insurance of the PH (also suggestions on critical illnesses insurance)	u/princessluna22	2019-07	26
+Short Selling
+Thread	Poster	Posted	Points
+1. PSE to introduce short-selling, new indices, and REITs next year	u/dgxxiii	2019-12	16
+Short Term Funds
+Thread	Poster	Posted	Points
+1. Does this mean Metrobank is the best bank to invest in a short term UITF?	u/SongstressInDistress	2018-10	16
+Stock Investing
+Thread	Poster	Posted	Points
+1. Real Estate vs. Stock Market for 20-somethings	u/jannah26	2019-02	23
+2. Stock market o lupa?	u/KahitMunti	2018-07	22
+3. PH Invest 102 Part 5 - Reevaluation, Goals and Expectations	u/treeperfume	2017-03	9
+4. PH Invest 102 - Stocks, The PSE and My Method	u/treeperfume	2017-02	8.5
+5. PH Invest 102 Part 3 - Updates	u/treeperfume	2017-03	8.5
+6. PH Invest 102 Part 4 - Example From Research to Purchase	u/treeperfume	2017-03	8.5
+7. PH Invest 102 Part 2 - My investing strategy and a new Google Spreadsheet with financial data for companies listed in the PSE	u/treeperfume	2017-03	7.5
+Stock Manipulation
+Thread	Poster	Posted	Points
+1. A long/short history of why the Villars are the biggest Stock Market conmen in Philippine History	u/tagongpangalan	2018-11	15.5
+2. What's your confidence that financial crimes especially on stock markets are prosecuted in the Philippines?	u/distractedcat	2019-03	15.5
+Stock Market Index
+Thread	Poster	Posted	Points
+1. PSEi down @2.95%, S&P500 and DOW J records lowest dip this 2019. Trade war and Inverted Bond Curve signals a looming recession. Time to be liquid?	u/Trueavengers	2019-07	42.5
+2. PSEI stocks and the everyday stuff	[deleted]	2019-11	36
+3. Trying to understand the PSE	u/ya-boi-thanosss	2019-01	21
+4. Three families/conglomerates control 67% weight of the PSEi	u/AmbisyosongAhedres	2019-11	18
+5. PSE to introduce short-selling, new indices, and REITs next year	u/dgxxiii	2019-12	16
+6. In case you're wondering with PSEI today...	[deleted]	2019-11	15.5
+7. PSE to introduce PSE total return index	[deleted]	2019-03	10
+8. STOCKS -- PSEi in the red, what's the fuzz with $ALI, $SMPH?	u/mio28	2020-01	9
+9. PSEi records best finish since August 2	u/dellderma	2019-10	8.5
+Stock Picking
+Thread	Poster	Posted	Points
+1. Very good summary of a rational approach to stock selection.	u/BTcapital12	2019-01	12
+Stock Ratings
+Thread	Poster	Posted	Points
+1. COL's recommendation and how to analyze a stock	u/SooyaMinari	2018-09	19
+Stock Trading
+Thread	Poster	Posted	Points
+1. Stock Trading For A Living - Personal Thoughts and Experience	u/tgd_0214	2019-10	120.5
+2. Beware of stock market gurus	u/catterpie90	2019-05	43.5
+3. "Cost averaging is absolutely the worst way to do stocks"	u/Sodium_Brain	2019-06	42.5
+4. Understanding Market Jargon	[deleted]	2019-11	18.5
+5. Full time stock trading	u/prefermenter	2019-07	17
+6. Thought and tips and tricks about COL	u/Daxuz	2020-01	11
+Stockbrokers
+Thread	Poster	Posted	Points
+1. BDO NOMURA Projections	u/rockdgoat	2019-10	35.5
+2. Which broker is the best for trading? 2TradeAsia, First Metro or AAA equities?	u/Arevname	2020-01	22
+3. BDO Nomura Recommendations and Potential Upside	u/CrankyTrex	2020-01	19
+4. PH Stockbroker List (c/o Passive Income Pare)	u/hermitina	2019-12	18.5
+5. Investment : BPI Trade 101 : Tutorial	u/nico9732	2019-06	17.5
+6. How does tax and commission fees work when investing in stocks e.g. COL?	u/distractedcat	2019-02	16.5
+7. Sharing to those who are new in using their BPI Trade Accounts -- Hope you can learn from this	u/nico9732	2019-08	13
+8. Philstocks or COL Financial?	u/akuani	2019-06	12.5
+9. Best investment platform?	u/Cat_puppet	2019-09	11.5
+10. Can we still get our investments if COL Financial or other online PH Broker close?	u/EfficientNinja	2018-05	10.5
+11. How to withdraw your money from BPI Trade Account : For newbies who uses BPI Trade	u/nico9732	2019-07	6
+Stocks
+Thread	Poster	Posted	Points
+1. Step-by-Step Guide: How to Invest in the Philippine Stock Market [2018]	u/Setroc16	2018-06	68.5
+2. My PH stock plummeted	u/propellerish	2019-12	48
+3. Jollibee net income down 14% in 2019; CEO: "It was a very tough year for JFC" (Wednesday, Feb 19)	u/DuncnIdahosBandurria	2020-02	27
+4. AirAsia CEO "suspended" for corruption charges... is this good for CEB and PAL? Plus Razon to conduct mandatory tender offer for MWC shares. (Feb8)	u/DuncnIdahosBandurria	2020-02	26.5
+5. PAL lays off 300 employees late on Friday night; Metro Alliance goes up 50% and nobody knows why (Saturday, Feb 29)	u/DuncnIdahosBandurria	2020-02	26.5
+6. CEB and PAL to refund P3-billion in the next 2 months, but that's not even the end of it... (Feb14)	u/DuncnIdahosBandurria	2020-02	25.5
+7. AC and MPI hit again as "onerous provision" contract review scope widens to include LRT 1 and beep card concession contract (Jan28)	u/DuncnIdahosBandurria	2020-01	23.5
+8. 7,200... grabe. Manila Water to sell 30% stake to raise funds? PCC to block SMC's HLCM purchase? (Feb1)	u/DuncnIdahosBandurria	2020-01	22
+9. #MWC shocker: Ayalas sold 51% voting control to Razon... what's next? BSP cuts rate by 25 bp; ANI has a terrible day on the market. (Feb7)	u/DuncnIdahosBandurria	2020-02	20.5
+10. Thoughts on the stock prices of MWC?	u/arquield	2019-12	20
+11. nCoV will impact global trade and markets... but how will it impact the PSE? (Jan30)	u/DuncnIdahosBandurria	2020-01	18.5
+12. GLOBE reports fantastic 2019 earnings, promises record amount of spending in 2020... also, 1000 subs! Thanks PHinvest! (Feb5)	u/DuncnIdahosBandurria	2020-02	18.5
+13. Made a website for PSE datas, need your opinions	u/jj_1980	2019-04	17.5
+14. DICT's "concerns" about Dito's readiness erased after one private meeting... but what about investors? When will we get the same info? (Jan31)	u/DuncnIdahosBandurria	2020-01	17.5
+15. Jollibee Stocks Long Term Potential	u/aries21___	2019-11	17
+16. What would happen to our stocks if we die?	u/mangkulas	2018-06	16.5
+17. Basic Stock Terminologies Part II : Hope this can help newbie traders out there.	u/nico9732	2019-07	16.5
+18. How the Stock Market Work : TedEd	u/bannerman82	2019-05	16
+19. Best place to talk about investment/stocks?	[deleted]	2018-11	15.5
+20. What do you think will happen to ABS? Is it another ploy to pull down stock price of it like before with WEB?	u/yomagolti	2019-11	15.5
+21. KFC looks to boost PH growth through franchising: how will this impact JFC (if at all)? [JFC MAXS PIZZA MEG DD ABS] (Feb13)	u/DuncnIdahosBandurria	2020-02	14
+22. Should I invest on stocks?	[deleted]	2018-09	12.5
+23. DITO withdraws $500 million to begin cramming for its test in July (Saturday, Feb 22)	u/DuncnIdahosBandurria	2020-02	12
+24. why is everything Green today	u/aaahchoo	2018-10	11.5
+25. The Secret to Investing in Jollibee, 7/11, and Petron (Start Small, No Franchise Fees)	u/Setroc16	2018-07	11
+26. Where do you get your stock infos online?	u/quibblefish	2019-02	10.5
+27. Books on Investing in Philippine Stock Market	u/ostravino13	2019-03	10.5
+28. SM Prime reports huge 2019 numbers... and now Future City is in doubt? [BSP happy with 50bps for 2020; Viva thinking about IPO; Chelsea spitting mad over guarantee story] - Tuesday, Feb 18	u/DuncnIdahosBandurria	2020-02	10.5
+29. CHART MONDAY: Things are better because they're getting worse slower than before... (Feb10)	u/DuncnIdahosBandurria	2020-02	10
+30. MB and EURO asked to explain huge price jumps; both respond: "Uh... no idea?" [EURO MB MPI ISM SEVN] (Feb12)	u/DuncnIdahosBandurria	2020-02	10
+31. Tool for downloading historical PSE data	u/alwaysfree	2018-11	9.5
+32. Ayalas sell 25% stake in MWC to Enrique Razon Jr... MWC pops hard, fades into the close. (Feb4)	u/DuncnIdahosBandurria	2020-02	9.5
+33. Starting Small, Dreaming Big	u/justawishfulthinker	2019-06	9
+34. MPI's earnings spoiled by Maynilad fiasco, company signals pivot to safer investments (Friday, Feb 28)	u/DuncnIdahosBandurria	2020-02	9
+35. I'm under 18 and I'm interested in entering the stock market, but I have a lot of noob questions...	u/PHInvestThrowawayAcc	2019-01	8.5
+36. Cathay Pacific asks 24k employees to take 3 weeks unpaid leave... SEC cancels Lotte's PIP tender offer (Feb6)	u/DuncnIdahosBandurria	2020-02	8.5
+37. MacroAsia [MAC] looking to bring additional Tan Family companies into the JV it formed with China and Cavite to build Sangley... like PAL? (Wednesday, Feb 26)	u/DuncnIdahosBandurria	2020-02	8.5
+38. CHART MONDAY: January kicked PSE in the face... but will Feb be any different? (Feb3)	u/DuncnIdahosBandurria	2020-01	6
+T
+Tax-Advantaged Schemes
+Thread	Poster	Posted	Points
+1. My MP2 claim process	u/hanseulra	2020-01	76.5
+2. MP2 is killing it as a low risk investment option. More Pag-ibig members/retirees joined. Principal is guaranteed, Interest is tax-free, No maximum investment limit.	u/ninja4lyf	2019-06	75
+3. An OFW redemption of his MP2 savings	u/adlee_23	2020-01	73.5
+4. Pag-IBIG MP2 Scenarios - Monthly, Annual, and Lump Sum Contributions	u/NostalgiaWitch	2019-11	71
+5. Pag-ibig MP2 2019 Dividend Rate is 7.23%!	u/denshow10	2020-02	69
+6. How will Pag-IBIG's Loyalty Card Plus change the game for MP2	u/esb1212	2019-10	64.5
+7. Pag-IBIG Mp2 hacks for advance investors	u/Uncle_Iroh107	2019-09	53.5
+8. Best Practice Sharing: Virtual PAG-IBIG	u/iamlordbaelish	2019-12	52
+9. My MP2 claim process (part 2!)	u/hanseulra	2020-01	47
+10. What is PERA and why you need one right now - Katie Scarlett Needs Money	u/Uncle_Iroh107	2019-02	44
+11. I find Pagibig Fund's online support very accommodating!	u/rogelalgero	2020-02	41.5
+12. Check your MP2 account with Pagibig if you are using Gcash!!!!	u/Teajeans	2019-11	38.5
+13. How retirement looks like for a regular Pinoy professional.	u/Uncle_Iroh107	2019-04	37
+14. How to maximize benefits of GSIS, SSS, PAGIBIG contributions?	u/dens1990	2019-10	36.5
+15. My experience in applying for PERA (BPI)	u/jvsalazar	2019-05	36
+16. Inquiries: SSS Loan	u/prettyplea	2019-09	34.5
+17. MP2 Terms and Conditions	u/thesuperwander	2020-01	32.5
+18. SSS Contribution/ Pension	u/cgranad	2019-11	31.5
+19. SSS PESO vs PAG-IBIG MP2 Fund vs BPI PERA Equity Fund	u/BawlSyet	2019-11	27.5
+20. Virtual PagIbig experience	u/diggory2003	2020-01	26.5
+21. Pag ibig MP2 redemption experience.	u/Pao411	2019-07	25.5
+22. Benefits of loaning from SSS (even if you don't really need the money)	u/WeekendBaker77	2020-01	25.5
+23. PAG-IBIG MP2 TRACKER / CALCULATOR	u/topermcell	2019-11	24
+24. can someone please explain MP2	u/sbph1234567	2019-12	22.5
+25. FMETF/stocks vs MP2	u/deadboykaiki	2019-11	22
+26. PAGIBIG MP2 - Based from the picture, could someone please tell me what is the total savings after 5 years. Is it the compounded savings + annual dividend? Sorry for being noob here. Hehe! Thanks!	u/chrstlcharm	2019-07	21
+27. Has anyone here tried Pag-IBIG MP2 Savings Program?	u/mcarts	2019-05	20.5
+28. Anyone invested in Pagibig MP2? 2017 rate is 8.11%	u/Yamboist	2018-09	20
+29. Question on PERA (Personal Equity and Retirement Account)	[deleted]	2018-10	19
+30. Ultimate Guide to PERA Investment Instruments	u/Uncle_Iroh107	2019-08	19
+31. Can you pay PAG IBIG MP2 through coins.ph and/or GrabPay?	u/ver03255	2020-01	19
+32. PAG-IBIG MP2 Yearend Balance or Daily Avg Balance	u/soymilkandtea	2019-08	18
+33. Why not PagIBIG?	u/niversalism	2019-08	18
+34. Can someone explain me how Pag Ibig MP2 Dividends works? I was able to view mine from last year deposit and I did not expect it to be this low. It is nowhere near the 7% that Pagibig had announced.	u/sparkninjato	2019-12	18
+35. SSS Contributions	u/chinablue20	2020-02	18
+36. BDO PERA APPLICATION GOT REJECTED	u/chacaad	2019-10	17.5
+37. Comparison between MP2 and SSS funds	u/Uncle_Iroh107	2020-02	16
+38. PH Version of Roth IRA and 401k.	u/drinking69	2019-03	15.5
+39. SSS contribution. Tuloy o Tigil?	u/HanamichiSakurag1	2020-01	15.5
+40. SSS Contribution/Investment	u/bluebalut	2018-11	15
+41. Opinions please - should i invest in PERA?	u/napejuice	2019-04	15
+42. Roth IRA and 401k	u/koko_krunchduo	2019-09	13
+43. MP2 a form of instant diversification	u/iamlordbaelish	2020-01	13
+44. BDO Pera	u/dmyccnt	2019-05	12.5
+45. On taxes, SSS, PhilHealth, and Pag-Ibig	u/chlgrdreams	2019-06	12.5
+46. ELI5: PERA Fund	u/bestoboy	2018-01	11
+47. PSA: Virtual Pag-IBIG launched to provide online service 24/7, released last Dec 26, 2019.	u/kevinoxy	2019-12	11
+48. Mandatory PAG-IBIG vs MP2?	u/ninjawarriors	2019-11	10.5
+49. Pag-IBIG Fund MP2	u/cdgmx	2019-03	9.5
+50. PAGIBIG MP2 Remittance	u/richmanmanabat	2020-01	9
+51. Is it worth it to continue contributing to SSS?	u/bannerman82	2018-12	8.5
+52. Issues with Pagibig P1	u/pubic_static	2020-02	8.5
+53. PAG-IBIG Contribution Increase to Support Rising Demand in Loans	u/PaoloBarts	2020-02	8.5
+54. Further questions for "timing" the MP2 program.	u/MentallyStimulating	2020-02	8
+Taxes
+Thread	Poster	Posted	Points
+1. Anyone applying at BIR to be Self-Employed/Freelancer? Here's how to do it.	u/wcce1234	2020-02	97.5
+2. Advise for a freelancer in the creative/media/film industry	u/imiiiiiiiiil	2019-12	18.5
+3. Tax consideration on earnings from selling stocks	u/bluesky15_tpc	2019-07	16.5
+4. Tax returns for 2019	u/tocarbis	2019-10	15
+5. On taxes, SSS, PhilHealth, and Pag-Ibig	u/chlgrdreams	2019-06	12.5
+6. No tax in my first 4 months of employment	u/clericsniper	2019-07	12
+Technical Analysis
+Thread	Poster	Posted	Points
+1. Stock picks for the week	u/remoteunderpants	2018-09	36.5
+2. Stock review	u/JSmooveGG	2019-05	22.5
+3. Stocks for watchlist	u/JSmooveGG	2018-10	13
+4. Stock Review July 16, 2019	u/JSmooveGG	2019-07	12.5
+5. Stocks to watch out in Feb	u/JSmooveGG	2019-02	10.5
+Telecommuting
+Thread	Poster	Posted	Points
+1. Need advice for my current situation as a fresh graduate who works from home. How to save money here?	u/neyj_claw	2019-02	19.5
+Term Insurance
+Thread	Poster	Posted	Points
+1. Some bank products that come with free life insurance (BPI, BDO, Security Bank, RCBC)	u/GamePlan101	2019-07	51.5
+2. Non-investment-linked insurance plans exist	u/beapaulene	2019-08	40
+3. TERM Insurance Options	u/abisaya2	2019-03	31
+4. Whole Life vs Term Insurance in 7 minutes	u/adegala021	2020-02	29
+5. BPI Save-Up Experience	u/riocallos	2019-03	23
+6. BPI employees in our branch are not aware of BPI Saveup	u/lenmark04	2019-09	23
+7. Term Insurance	u/ferginfernandez	2018-12	22.5
+8. Planning to open a BPI Save-Up Account	u/venettosace	2019-06	21
+9. Term Insurance vs Whole-life Insurance	u/SkoivanSchiem	2019-01	19
+10. Term Insurance: FWD Set for Health or Sun LifeAssure?	u/zuprome	2020-01	15.5
+11. I’m 31 yrs old working in a stable profession. In a year, I will migrate to US after working for 4 years in middle east. I need advise.. Is it advisable to get term insurance in the Philippines? Or is it better to get one in US? Or both?	u/kai-tabz	2019-07	13
+12. BPI Direct: Save-Up Automatic Savings with Insurance	u/imiiiiiiiiil	2020-01	12
+13. Gcash now offers Insurance, in partnership with AXA. Share your experiences, if you have any.	[deleted]	2019-11	10.5
+14. Gcash Insure: Yay or Nay	u/hahahatkeyk	2020-02	10
+15. BPI Save-Up Insurance Coverage	u/riocallos	2019-07	8.5
+Time Deposits
+Thread	Poster	Posted	Points
+1. Robinsons Bank TD offer - 5.5%net pa, 5yrs, interest payout monthly	u/kungfupandak	2019-02	17
+2. Security Bank's alternative to Pag Ibig MP2	u/gamingenthusiast19	2019-12	12.5
+3. Robinsons Bank brings back their 5.5% time deposit	u/zedfrostxnn	2019-05	8.5
+Trade Indicators
+Thread	Poster	Posted	Points
+1. What are the things you check first before buying a stock?	u/ursurname	2019-01	9.5
+Trade Orders
+Thread	Poster	Posted	Points
+1. Why did the PSEi spike up right before closing?	[deleted]	2018-07	10
+Trade Signals
+Thread	Poster	Posted	Points
+1. Stock picks for the week	u/remoteunderpants	2018-09	36.5
+2. TIME TO BUY	u/camille7688	2018-07	23.5
+3. BPI stock price nearing lowest point in years	u/Higantengetits	2019-05	22.5
+4. Stock review	u/JSmooveGG	2019-05	22.5
+5. [PSA] PSEi closed 8k tonight.	u/camille7688	2019-02	18.5
+6. Stocks for watchlist	u/JSmooveGG	2018-10	13
+7. PSEi loses 114.85 pts or 1.56% to close at 7,233.57 as inflation hits 5.2%	[deleted]	2018-07	12.5
+8. Stock Review July 16, 2019	u/JSmooveGG	2019-07	12.5
+9. Stocks to watch out in Feb	u/JSmooveGG	2019-02	10.5
+10. COL Financial: Expect wild ride to 8,600 for PSEi by yearend	u/Sodium_Brain	2018-08	6.5
+U
+Unit Investment Trust Funds
+Thread	Poster	Posted	Points
+1. Top Philippine UITF funds 2019	u/pesolab	2019-12	35.5
+2. Can someone ELI5 UITF? This seems to the everyone’s go to suggestion for the newbies but nobody really explains what it is and most importantly the gains you get out of it.	u/spaceisascaryplace	2018-06	26
+3. UITF OR MF? Which is better	u/mjiane	2019-08	23.5
+4. Which BPI/BDO UITF should I invest?	u/leolannister	2019-01	18
+5. Thankful for finding this sub! It's a start of being financially woke. Need help on my first investment	u/r_nb	2018-12	16
+6. What are the things I need to look for when looking for UITFs?	u/volcanicpistol	2019-02	15.5
+7. Just invested in BPI MF and UITF	u/gabo021	2018-07	14.5
+8. Yuppie investing in East West UITF	u/highdee33	2019-08	12
+9. A UITF which I just randomly got after college saved me an unexpected cost	u/clichetoris	2018-10	9.5
+10. What's your take on investing UTIFs in today's economy?	u/-Paranoia	2018-06	6.5
+V
+W
+[Wedding Budget][Wedding Budget]
+Thread	Poster	Posted	Points
+1. Do you guys ever have a plan for your wedding fund? (Maiba tayo)	u/stupidcoww08	2021-04-09	19
+2. Saving for my wedding	u/Jmpmen	2019-11-18	10
+Whole Life Insurance
+Thread	Poster	Posted	Points
+1. Non-investment-linked insurance plans exist	u/beapaulene	2019-08	40
+2. Whole Life vs Term Insurance in 7 minutes	u/adegala021	2020-02	29
+3. Term Insurance vs Whole-life Insurance	u/SkoivanSchiem	2019-01	19
+X
+Y
+Z
+Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+Jump to content
+Subreddit Icon
+Search within r/phinvest
+Subreddit Iconr/phinvest
+Search Reddit
+
+
+
+
+User avatar
+User account menu
+r/phinvest
+
+Investing in the Philippines
+r/phinvest
+
+Joined
+
+PostsTop 10sFAQFinancialsReturnsDiscord
+Edit
+
+Emergency Funds
+Go back to FAQ main page
+
+Emergency Funds
+What is it?
+
+Simply put, it's money stowed away for emergency use.
+
+What kind of emergencies?
+
+Emergencies are the ones you are not expecting to happen but need immediate attention. This does not include Flash Lazada Sales, Piso Fares, and expenses that you should have been saving for in the first place before it is due (e.g. kid's tuition, Meralco, wedding).
+
+Why do I need it?
+
+Any good financial book or advisor would always tell you that when you start investing the very first thing* you need to do is to build up your emergency fund. This is because having a buffer for unexpected events in your life frees you from debt, worry and ensures that you could follow your financial plans to a T.
+
+I'm ready, how much should I save? Is there a magic number?
+
+The amount you need to put away is a case to case basis. Some save from 3 months' worth of salary, others could do 6 or even for a whole year. The premise is that if you find yourself jobless for x months you don't need to depend on anybody's charity to get by. Just be realistic on your planned amount and time frame and you're good to go.
+
+Don't forget to replenish each time you use it too. Always make it a point that your fund is intact as soon as you can.
+
+I now have the money, where should I put it?
+
+The safest place you could put it is in the bank. It's free and unlike your closet earns a bit of interest. Just put an effort in not withdrawing anything from it and that would be fine.
+
+You can also put it in a low risk 30 Day recurring Time Deposit. Not only does it have better interest rates, it prevents you to withdraw because it is locked for 30 days. You can get it anytime though (this is for emergency after all) but you need to personally meet a bank rep just to transact unlike with an ATM that you only need to dip it on a machine.
+
+But it's a huge amount, shouldn't I invest it instead?
+
+This is a big NO. Emergency funds need to retain their principal amount to be of any value. There is no point in putting it on high risk investments. This is like gambling with your child's college fund hoping that it would double before you need it.
+
+*Technically you need to pay off debts first, especially short ones and with high interest.
+
+-- by u/hermitina
+
+Alternative places where to place your emergency fund
+
+Savings accounts that give you free insurance (BPI Save-up/ BPI Pamana/ Security Bank All Access/ BDO Kabayan/ RCBC Hexagon Club Privilege)
+Money market funds (Look at asset type = money market in this list)
+High-interest savings accounts (ING/ CIMB)
+Combination of 1, 2, 3
+Please consider the convenience and time needed to withdraw from your emergency fund when actual emergencies happen. So you may structure your emergency fund depending on how long it takes to withdraw them. An example would be:
+
+2 days worth of expenses to be kept at home
+2 weeks worth of expenses to be kept in an ATM savings account
+3 to 5.5 months worth of expenses to be kept in a money market fund
+This is just an example. You need to plan for it basing on your personal situation.
+
+-- by u/speqter (Oct 8, 2019)
+
+Last revised by ayyylexa - 2 years ago
